@@ -130,6 +130,15 @@ cam_back_min = st.sidebar.slider(
     step=1,
 )
 
+# Caméra frontale minimale
+cam_front_min = st.sidebar.slider(
+    "🤳 Caméra frontale minimale (MP)",
+    min_value=int(df["FrontCam_MP"].dropna().min()),
+    max_value=int(df["FrontCam_MP"].dropna().max()),
+    value=int(df["FrontCam_MP"].dropna().min()),
+    step=1,
+)
+
 # Taille d'écran minimale
 screen_min = st.sidebar.slider(
     "📐 Taille d'écran minimale (pouces)",
@@ -159,6 +168,7 @@ mask = (
     (df["RAM_GB"].fillna(0) >= min_ram) &
     (df["Battery_mAh"].fillna(0) >= battery_min) &
     (df["BackCam_MP"].fillna(0) >= cam_back_min) &
+    (df["FrontCam_MP"].fillna(0) >= cam_front_min) &
     (df["Screen_inch"].fillna(0) >= screen_min)
 )
 if not include_tablettes:
