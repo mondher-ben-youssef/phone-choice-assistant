@@ -1,0 +1,915 @@
+Company Name,Model Name,Processor,Launched Year,Mobile_Weight_g,RAM_GB,FrontCam_MP,BackCam_MP,Battery_mAh,Screen_inch,Price_USD,Cluster,Segment
+Apple,iPhone 16 128GB,A17 Bionic,2024,174.0,6,12,48,3600,6.1,799.0,0,Essentiel
+Apple,iPhone 16 256GB,A17 Bionic,2024,174.0,6,12,48,3600,6.1,849.0,0,Essentiel
+Apple,iPhone 16 512GB,A17 Bionic,2024,174.0,6,12,48,3600,6.1,899.0,0,Essentiel
+Apple,iPhone 16 Plus 128GB,A17 Bionic,2024,203.0,6,12,48,4200,6.7,899.0,0,Essentiel
+Apple,iPhone 16 Plus 256GB,A17 Bionic,2024,203.0,6,12,48,4200,6.7,949.0,0,Essentiel
+Apple,iPhone 16 Plus 512GB,A17 Bionic,2024,203.0,6,12,48,4200,6.7,999.0,0,Essentiel
+Apple,iPhone 16 Pro 128GB,A17 Pro,2024,206.0,6,12,50,4400,6.1,999.0,0,Essentiel
+Apple,iPhone 16 Pro 256GB,A17 Pro,2024,206.0,8,12,50,4400,6.1,1049.0,0,Essentiel
+Apple,iPhone 16 Pro 512GB,A17 Pro,2024,206.0,8,12,50,4400,6.1,1099.0,0,Essentiel
+Apple,iPhone 16 Pro Max 128GB,A17 Pro,2024,221.0,6,12,48,4500,6.7,1099.0,0,Essentiel
+Apple,iPhone 16 Pro Max 256GB,A17 Pro,2024,221.0,8,12,48,4500,6.7,1199.0,0,Essentiel
+Apple,iPhone 16 Pro Max 512GB,A17 Pro,2024,221.0,8,12,48,4500,6.7,1299.0,0,Essentiel
+Apple,iPhone 15 128GB,A16 Bionic,2023,171.0,6,12,48,3200,6.1,799.0,0,Essentiel
+Apple,iPhone 15 256GB,A16 Bionic,2023,171.0,6,12,48,3200,6.1,849.0,0,Essentiel
+Apple,iPhone 15 512GB,A16 Bionic,2023,171.0,6,12,48,3200,6.1,949.0,0,Essentiel
+Apple,iPhone 15 Plus 128GB,A16 Bionic,2023,203.0,6,12,48,4300,6.7,899.0,0,Essentiel
+Apple,iPhone 15 Plus 256GB,A16 Bionic,2023,203.0,6,12,48,4300,6.7,999.0,0,Essentiel
+Apple,iPhone 15 Plus 512GB,A16 Bionic,2023,203.0,6,12,48,4300,6.7,1049.0,0,Essentiel
+Apple,iPhone 15 Pro 128GB,A16 Bionic,2023,206.0,6,12,48,4400,6.1,1099.0,0,Essentiel
+Apple,iPhone 15 Pro 256GB,A16 Bionic,2023,206.0,8,12,48,4400,6.1,1199.0,0,Essentiel
+Apple,iPhone 15 Pro 512GB,A16 Bionic,2023,206.0,8,12,48,4400,6.1,1299.0,0,Essentiel
+Apple,iPhone 15 Pro Max 128GB,A16 Bionic,2023,221.0,6,12,48,4500,6.7,1199.0,0,Essentiel
+Apple,iPhone 15 Pro Max 256GB,A16 Bionic,2023,221.0,8,12,48,4500,6.7,1299.0,0,Essentiel
+Apple,iPhone 15 Pro Max 512GB,A16 Bionic,2023,221.0,8,12,48,4500,6.7,1399.0,0,Essentiel
+Apple,iPhone 14 128GB,A15 Bionic,2022,172.0,6,12,12,3200,6.1,799.0,1,Confort
+Apple,iPhone 14 256GB,A15 Bionic,2022,172.0,6,12,12,3200,6.1,849.0,1,Confort
+Apple,iPhone 14 512GB,A15 Bionic,2022,172.0,6,12,12,3200,6.1,949.0,1,Confort
+Apple,iPhone 14 Plus 128GB,A15 Bionic,2022,203.0,6,12,12,4325,6.7,899.0,1,Confort
+Apple,iPhone 14 Plus 256GB,A15 Bionic,2022,203.0,6,12,12,4325,6.7,999.0,1,Confort
+Apple,iPhone 14 Plus 512GB,A15 Bionic,2022,203.0,6,12,12,4325,6.7,1049.0,1,Confort
+Apple,iPhone 14 Pro 128GB,A16 Bionic,2022,206.0,6,12,48,4200,6.1,1099.0,0,Essentiel
+Apple,iPhone 14 Pro 256GB,A16 Bionic,2022,206.0,8,12,48,4200,6.1,1199.0,0,Essentiel
+Apple,iPhone 14 Pro 512GB,A16 Bionic,2022,206.0,8,12,48,4200,6.1,1299.0,0,Essentiel
+Apple,iPhone 14 Pro Max 128GB,A16 Bionic,2022,221.0,6,12,48,4500,6.7,1199.0,0,Essentiel
+Apple,iPhone 14 Pro Max 256GB,A16 Bionic,2022,221.0,8,12,48,4500,6.7,1299.0,0,Essentiel
+Apple,iPhone 14 Pro Max 512GB,A16 Bionic,2022,221.0,8,12,48,4500,6.7,1399.0,0,Essentiel
+Apple,iPhone 13 mini 128GB,A15 Bionic,2021,140.0,4,12,12,2438,5.4,699.0,1,Confort
+Apple,iPhone 13 mini 256GB,A15 Bionic,2021,140.0,4,12,12,2438,5.4,799.0,1,Confort
+Apple,iPhone 13 mini 512GB,A15 Bionic,2021,140.0,4,12,12,2438,5.4,899.0,1,Confort
+Apple,iPhone 13 128GB,A15 Bionic,2021,174.0,4,12,12,3240,6.1,799.0,1,Confort
+Apple,iPhone 13 256GB,A15 Bionic,2021,174.0,4,12,12,3240,6.1,899.0,1,Confort
+Apple,iPhone 13 512GB,A15 Bionic,2021,174.0,4,12,12,3240,6.1,999.0,1,Confort
+Apple,iPhone 13 Pro 128GB,A15 Bionic,2021,204.0,6,12,12,3095,6.1,999.0,1,Confort
+Apple,iPhone 13 Pro 256GB,A15 Bionic,2021,204.0,6,12,12,3095,6.1,1099.0,1,Confort
+Apple,iPhone 13 Pro 512GB,A15 Bionic,2021,204.0,6,12,12,3095,6.1,1199.0,1,Confort
+Apple,iPhone 13 Pro Max 128GB,A15 Bionic,2021,238.0,6,12,12,4352,6.7,1099.0,1,Confort
+Apple,iPhone 13 Pro Max 256GB,A15 Bionic,2021,238.0,6,12,12,4352,6.7,1199.0,1,Confort
+Apple,iPhone 13 Pro Max 512GB,A15 Bionic,2021,238.0,6,12,12,4352,6.7,1399.0,1,Confort
+Apple,iPhone 12 mini 64GB,A14 Bionic,2020,135.0,4,12,12,2227,5.4,699.0,1,Confort
+Apple,iPhone 12 mini 128GB,A14 Bionic,2020,135.0,4,12,12,2227,5.4,799.0,1,Confort
+Apple,iPhone 12 mini 256GB,A14 Bionic,2020,135.0,4,12,12,2227,5.4,899.0,1,Confort
+Apple,iPhone 12 64GB,A14 Bionic,2020,164.0,4,12,12,2815,6.1,799.0,1,Confort
+Apple,iPhone 12 128GB,A14 Bionic,2020,164.0,4,12,12,2815,6.1,899.0,1,Confort
+Apple,iPhone 12 256GB,A14 Bionic,2020,164.0,4,12,12,2815,6.1,999.0,1,Confort
+Apple,iPhone 12 Pro 128GB,A14 Bionic,2020,189.0,6,12,12,2815,6.1,999.0,1,Confort
+Apple,iPhone 12 Pro 256GB,A14 Bionic,2020,189.0,6,12,12,2815,6.1,1099.0,1,Confort
+Apple,iPhone 12 Pro 512GB,A14 Bionic,2020,189.0,6,12,12,2815,6.1,1199.0,1,Confort
+Apple,iPhone 12 Pro Max 128GB,A14 Bionic,2020,228.0,6,12,12,3687,6.7,1099.0,1,Confort
+Apple,iPhone 12 Pro Max 256GB,A14 Bionic,2020,228.0,6,12,12,3687,6.7,1199.0,1,Confort
+Apple,iPhone 12 Pro Max 512GB,A14 Bionic,2020,228.0,6,12,12,3687,6.7,1399.0,1,Confort
+Apple,iPhone 11 64GB,A13 Bionic,2019,194.0,4,12,12,3110,6.1,699.0,1,Confort
+Apple,iPhone 11 128GB,A13 Bionic,2019,194.0,4,12,12,3110,6.1,799.0,1,Confort
+Apple,iPhone 11 256GB,A13 Bionic,2019,194.0,4,12,12,3110,6.1,899.0,1,Confort
+Apple,iPhone 11 Pro 64GB,A13 Bionic,2019,188.0,4,12,12,3046,5.8,999.0,1,Confort
+Apple,iPhone 11 Pro 256GB,A13 Bionic,2019,188.0,4,12,12,3046,5.8,1099.0,1,Confort
+Apple,iPhone 11 Pro 512GB,A13 Bionic,2019,188.0,4,12,12,3046,5.8,1199.0,1,Confort
+Apple,iPhone 11 Pro Max 64GB,A13 Bionic,2019,226.0,4,12,12,3969,6.5,1099.0,1,Confort
+Apple,iPhone 11 Pro Max 256GB,A13 Bionic,2019,226.0,4,12,12,3969,6.5,1199.0,1,Confort
+Apple,iPhone 11 Pro Max 512GB,A13 Bionic,2019,226.0,4,12,12,3969,6.5,1399.0,1,Confort
+Apple,iPhone X 64GB,A11 Bionic,2017,174.0,3,7,12,2716,5.8,999.0,1,Confort
+Apple,iPhone X 256GB,A11 Bionic,2017,174.0,3,7,12,2716,5.8,1099.0,1,Confort
+Apple,iPhone XS 64GB,A12 Bionic,2018,177.0,4,7,12,2658,5.8,999.0,1,Confort
+Apple,iPhone XS 256GB,A12 Bionic,2018,177.0,4,7,12,2658,5.8,1099.0,1,Confort
+Apple,iPhone XS 512GB,A12 Bionic,2018,177.0,4,7,12,2658,5.8,1299.0,1,Confort
+Apple,iPhone XS Max 64GB,A12 Bionic,2018,208.0,4,7,12,3174,6.5,1099.0,1,Confort
+Apple,iPhone XS Max 256GB,A12 Bionic,2018,208.0,4,7,12,3174,6.5,1249.0,1,Confort
+Apple,iPhone XS Max 512GB,A12 Bionic,2018,208.0,4,7,12,3174,6.5,1399.0,1,Confort
+Apple,iPhone XR 64GB,A12 Bionic,2018,194.0,3,7,12,2942,6.1,749.0,1,Confort
+Apple,iPhone XR 128GB,A12 Bionic,2018,194.0,3,7,12,2942,6.1,799.0,1,Confort
+Apple,iPhone XR 256GB,A12 Bionic,2018,194.0,3,7,12,2942,6.1,899.0,1,Confort
+Apple,iPad Air 10.9-inch 64GB,A14 Bionic,2020,458.0,4,12,12,7608,10.9,599.0,4,Tablettes
+Apple,iPad Air 10.9-inch 256GB,A14 Bionic,2020,458.0,4,12,12,7608,10.9,749.0,4,Tablettes
+Apple,iPad 10.2-inch 32GB,A13 Bionic,2020,490.0,3,12,8,8612,10.2,329.0,4,Tablettes
+Apple,iPad 10.2-inch 128GB,A13 Bionic,2020,490.0,3,12,8,8612,10.2,429.0,4,Tablettes
+Apple,iPad Mini 7.9-inch 64GB,A12 Bionic,2019,300.5,3,7,8,5124,7.9,399.0,1,Confort
+Apple,iPad Mini 7.9-inch 256GB,A12 Bionic,2019,300.5,3,7,8,5124,7.9,499.0,1,Confort
+Apple,iPad Pro 11-inch 128GB,A12Z Bionic,2020,468.0,4,7,12,7812,11.0,799.0,4,Tablettes
+Apple,iPad Pro 11-inch 256GB,A12Z Bionic,2020,468.0,4,7,12,7812,11.0,899.0,4,Tablettes
+Apple,iPad Pro 11-inch 512GB,A12Z Bionic,2020,468.0,6,7,12,7812,11.0,1099.0,4,Tablettes
+Apple,iPad Pro 12.9-inch 128GB,A12Z Bionic,2020,682.0,6,7,12,9720,12.9,999.0,4,Tablettes
+Apple,iPad Pro 12.9-inch 256GB,A12Z Bionic,2020,682.0,6,7,12,9720,12.9,1099.0,4,Tablettes
+Apple,iPad Pro 12.9-inch 512GB,A12Z Bionic,2020,682.0,6,7,12,9720,12.9,1299.0,4,Tablettes
+Apple,iPad Pro 13-inch 128GB,A12Z Bionic,2020,708.0,6,7,12,10307,13.0,1099.0,4,Tablettes
+Apple,iPad Pro 13-inch 256GB,A12Z Bionic,2020,708.0,6,7,12,10307,13.0,1199.0,4,Tablettes
+Apple,iPad Pro 13-inch 512GB,A12Z Bionic,2020,708.0,6,7,12,10307,13.0,1399.0,4,Tablettes
+Apple,iPad Pro 13-inch 1TB,A12Z Bionic,2020,708.0,6,7,12,10307,13.0,1599.0,4,Tablettes
+Apple,iPad Pro 13-inch 2TB,A12Z Bionic,2020,708.0,6,7,12,10307,13.0,1799.0,4,Tablettes
+Samsung,Galaxy S24 Ultra 128GB,Exynos 2400,2024,234.0,12,12,200,5000,6.8,1199.0,6,Ultra Pro
+Samsung,Galaxy S24 Ultra 256GB,Exynos 2400,2024,234.0,12,12,200,5000,6.8,1299.0,6,Ultra Pro
+Samsung,Galaxy S24+ 128GB,Exynos 2400,2024,196.0,8,12,50,4800,6.6,899.0,0,Essentiel
+Samsung,Galaxy S24+ 256GB,Exynos 2400,2024,196.0,8,12,50,4800,6.6,999.0,0,Essentiel
+Samsung,Galaxy S24 128GB,Exynos 2400,2024,168.0,8,12,50,4000,6.1,799.0,0,Essentiel
+Samsung,Galaxy S24 256GB,Exynos 2400,2024,168.0,8,12,50,4000,6.1,899.0,0,Essentiel
+Samsung,Galaxy S23 Ultra 128GB,Snapdragon 8 Gen 2,2023,228.0,12,12,200,5000,6.8,1199.0,6,Ultra Pro
+Samsung,Galaxy S23 Ultra 256GB,Snapdragon 8 Gen 2,2023,228.0,12,12,200,5000,6.8,1299.0,6,Ultra Pro
+Samsung,Galaxy S23+ 128GB,Snapdragon 8 Gen 2,2023,196.0,8,12,50,4700,6.6,899.0,0,Essentiel
+Samsung,Galaxy S23+ 256GB,Snapdragon 8 Gen 2,2023,196.0,8,12,50,4700,6.6,999.0,0,Essentiel
+Samsung,Galaxy S23 128GB,Snapdragon 8 Gen 2,2023,168.0,8,12,50,3900,6.1,799.0,0,Essentiel
+Samsung,Galaxy S23 256GB,Snapdragon 8 Gen 2,2023,168.0,8,12,50,3900,6.1,899.0,0,Essentiel
+Samsung,Galaxy S22 Ultra 128GB,Exynos 2200,2022,228.0,12,10,108,5000,6.8,1099.0,3,Expert
+Samsung,Galaxy S22 Ultra 256GB,Exynos 2200,2022,228.0,12,10,108,5000,6.8,1199.0,3,Expert
+Samsung,Galaxy S22+ 128GB,Exynos 2200,2022,195.0,8,10,50,4500,6.6,799.0,0,Essentiel
+Samsung,Galaxy S22+ 256GB,Exynos 2200,2022,195.0,8,10,50,4500,6.6,899.0,0,Essentiel
+Samsung,Galaxy S22 128GB,Exynos 2200,2022,167.0,8,10,50,3800,6.1,699.0,0,Essentiel
+Samsung,Galaxy S22 256GB,Exynos 2200,2022,167.0,8,10,50,3800,6.1,799.0,0,Essentiel
+Samsung,Galaxy Z Fold 5 256GB,Snapdragon 8 Gen 2,2023,254.0,12,10,50,4400,7.6,1799.0,5,Pro
+Samsung,Galaxy Z Fold 5 512GB,Snapdragon 8 Gen 2,2023,254.0,12,10,50,4400,7.6,1899.0,5,Pro
+Samsung,Galaxy Z Flip 5 256GB,Snapdragon 8 Gen 2,2023,187.0,8,12,12,3700,6.7,999.0,1,Confort
+Samsung,Galaxy Z Flip 5 512GB,Snapdragon 8 Gen 2,2023,187.0,8,12,12,3700,6.7,1099.0,1,Confort
+Samsung,Galaxy Z Fold 4 256GB,Snapdragon 8 Gen 1,2022,263.0,12,10,50,4400,7.6,1799.0,5,Pro
+Samsung,Galaxy Z Fold 4 512GB,Snapdragon 8 Gen 1,2022,263.0,12,10,50,4400,7.6,1899.0,5,Pro
+Samsung,Galaxy Z Flip 4 256GB,Snapdragon 8 Gen 1,2022,187.0,8,10,12,3700,6.7,999.0,1,Confort
+Samsung,Galaxy Z Flip 4 512GB,Snapdragon 8 Gen 1,2022,187.0,8,10,12,3700,6.7,1099.0,1,Confort
+Samsung,Galaxy A54 128GB,Exynos 1380,2023,189.0,6,32,50,5000,6.4,399.0,2,Performance
+Samsung,Galaxy A54 256GB,Exynos 1380,2023,189.0,6,32,50,5000,6.4,449.0,2,Performance
+Samsung,Galaxy A34 128GB,MediaTek Dimensity 1080,2023,199.0,6,13,48,5000,6.6,349.0,0,Essentiel
+Samsung,Galaxy A34 256GB,MediaTek Dimensity 1080,2023,199.0,6,13,48,5000,6.6,399.0,0,Essentiel
+Samsung,Galaxy A24 128GB,MediaTek Helio G99,2023,195.0,6,13,50,5000,6.5,299.0,0,Essentiel
+Samsung,Galaxy A24 256GB,MediaTek Helio G99,2023,195.0,6,13,50,5000,6.5,349.0,0,Essentiel
+Samsung,Galaxy A14 128GB,Exynos 850,2023,190.0,4,13,50,5000,6.6,249.0,0,Essentiel
+Samsung,Galaxy A14 256GB,Exynos 850,2023,190.0,4,13,50,5000,6.6,299.0,0,Essentiel
+Samsung,Galaxy A04 64GB,Exynos 850,2022,188.0,4,5,50,5000,6.5,199.0,0,Essentiel
+Samsung,Galaxy A04 128GB,Exynos 850,2022,188.0,4,5,50,5000,6.5,249.0,0,Essentiel
+Samsung,Galaxy M54 128GB,Exynos 1380,2023,202.0,8,32,108,6000,6.7,349.0,3,Expert
+Samsung,Galaxy M54 256GB,Exynos 1380,2023,202.0,8,32,108,6000,6.7,399.0,3,Expert
+Samsung,Galaxy M34 128GB,Exynos 1280,2023,199.0,6,13,50,6000,6.5,299.0,0,Essentiel
+Samsung,Galaxy M34 256GB,Exynos 1280,2023,199.0,6,13,50,6000,6.5,349.0,0,Essentiel
+Samsung,Galaxy M14 128GB,Exynos 850,2023,202.0,4,13,50,6000,6.6,249.0,0,Essentiel
+Samsung,Galaxy M14 256GB,Exynos 850,2023,202.0,4,13,50,6000,6.6,299.0,0,Essentiel
+Samsung,Galaxy M04 64GB,MediaTek Helio P35,2022,188.0,4,5,13,5000,6.5,199.0,1,Confort
+Samsung,Galaxy M04 128GB,MediaTek Helio P35,2022,188.0,4,5,13,5000,6.5,249.0,1,Confort
+Samsung,Galaxy F54 128GB,Exynos 1380,2023,199.0,8,32,108,6000,6.7,349.0,3,Expert
+Samsung,Galaxy F54 256GB,Exynos 1380,2023,199.0,8,32,108,6000,6.7,399.0,3,Expert
+Samsung,Galaxy F34 128GB,Exynos 1280,2023,190.0,6,13,50,6000,6.5,299.0,0,Essentiel
+Samsung,Galaxy F34 256GB,Exynos 1280,2023,190.0,6,13,50,6000,6.5,349.0,0,Essentiel
+Samsung,Galaxy F14 128GB,Exynos 850,2023,198.0,4,13,50,6000,6.6,249.0,0,Essentiel
+Samsung,Galaxy F14 256GB,Exynos 850,2023,198.0,4,13,50,6000,6.6,299.0,0,Essentiel
+Samsung,Galaxy Note 20 Ultra 128GB,Exynos 990,2020,208.0,12,10,108,4500,6.9,1299.0,3,Expert
+Samsung,Galaxy Note 20 Ultra 256GB,Exynos 990,2020,208.0,12,10,108,4500,6.9,1399.0,3,Expert
+Samsung,Galaxy Note 20 128GB,Exynos 990,2020,192.0,8,10,108,4300,6.7,999.0,3,Expert
+Samsung,Galaxy Note 20 256GB,Exynos 990,2020,192.0,8,10,108,4300,6.7,1099.0,3,Expert
+Samsung,Galaxy Note 10+ 256GB,Exynos 9825,2019,196.0,12,10,12,4300,6.8,1099.0,5,Pro
+Samsung,Galaxy Note 10+ 512GB,Exynos 9825,2019,196.0,12,10,12,4300,6.8,1199.0,5,Pro
+Samsung,Galaxy Note 10 256GB,Exynos 9825,2019,168.0,8,10,12,3500,6.3,949.0,1,Confort
+Samsung,Galaxy Note 10 128GB,Exynos 9825,2019,168.0,8,10,12,3500,6.3,899.0,1,Confort
+Samsung,Galaxy Xcover 6 Pro 128GB,Exynos 1380,2022,235.0,6,13,50,4050,6.6,499.0,0,Essentiel
+Samsung,Galaxy Xcover 5 64GB,Exynos 850,2020,172.0,4,5,16,3000,5.3,249.0,1,Confort
+Samsung,Galaxy J8 64GB,Snapdragon 450,2018,191.0,4,16,16,3500,6.0,199.0,1,Confort
+Samsung,Galaxy J7 Pro 64GB,Exynos 7870,2017,181.0,3,13,13,3600,5.5,179.0,1,Confort
+Samsung,Galaxy J6+ 64GB,Snapdragon 425,2018,178.0,4,8,13,3300,6.0,169.0,1,Confort
+Samsung,Galaxy J4 16GB,Exynos 7570,2018,175.0,2,5,13,3000,5.5,129.0,1,Confort
+Samsung,Galaxy C9 Pro 64GB,Snapdragon 653,2016,189.0,6,16,16,4000,6.0,399.0,1,Confort
+Samsung,Galaxy C7 Pro 64GB,Snapdragon 625,2017,165.0,4,16,16,3300,5.7,299.0,1,Confort
+Samsung,Galaxy C5 32GB,Snapdragon 617,2016,143.0,4,8,16,2600,5.2,249.0,1,Confort
+Samsung,Galaxy W22 5G 256GB,Snapdragon 888,2021,228.0,12,10,108,4500,7.6,1499.0,3,Expert
+Samsung,Galaxy W21 5G 256GB,Snapdragon 888,2020,229.0,12,10,108,4500,7.6,1399.0,3,Expert
+Samsung,Galaxy Tab S9 Ultra 256GB,Snapdragon 8 Gen 2,2023,732.0,12,12,13,11200,14.6,1199.0,4,Tablettes
+Samsung,Galaxy Tab S9+ 256GB,Snapdragon 8 Gen 2,2023,586.0,12,12,13,10090,12.4,999.0,4,Tablettes
+Samsung,Galaxy Tab S9 128GB,Snapdragon 8 Gen 2,2023,498.0,8,12,13,8400,11.0,799.0,4,Tablettes
+Samsung,Galaxy Tab S9 FE 128GB,Exynos 1380,2023,523.0,6,12,8,8000,10.9,549.0,4,Tablettes
+Samsung,Galaxy Tab S8 Ultra 256GB,Snapdragon 8 Gen 1,2022,726.0,12,12,13,11200,14.6,1099.0,4,Tablettes
+Samsung,Galaxy Tab S8+ 256GB,Snapdragon 8 Gen 1,2022,567.0,8,12,13,10090,12.4,899.0,4,Tablettes
+Samsung,Galaxy Tab S8 128GB,Snapdragon 8 Gen 1,2022,503.0,8,12,13,8000,11.0,699.0,4,Tablettes
+Samsung,Galaxy Tab A9+ 128GB,Snapdragon 695,2023,480.0,8,5,8,7040,11.0,229.0,4,Tablettes
+Samsung,Galaxy Tab A9 64GB,MediaTek Helio G99,2023,366.0,4,2,8,5100,8.7,179.0,1,Confort
+Samsung,Galaxy Tab A8 64GB,Unisoc T618,2022,508.0,4,5,8,7040,10.5,199.0,4,Tablettes
+Samsung,Galaxy Tab A7 Lite 32GB,MediaTek Helio P22T,2021,366.0,3,2,8,5100,8.7,149.0,1,Confort
+Samsung,Galaxy Tab Active 5 128GB,Exynos 1380,2024,433.0,6,5,13,5050,8.0,549.0,1,Confort
+Samsung,Galaxy Tab Active 4 Pro 128GB,Snapdragon 778G,2022,674.0,6,8,13,7600,10.1,649.0,4,Tablettes
+Samsung,Galaxy Tab Active 3 64GB,Exynos 9810,2020,426.0,4,5,13,5050,8.0,499.0,1,Confort
+Samsung,Galaxy Tab E 10.1 16GB,Spreadtrum SC8830,2016,490.0,1,2,5,5000,10.1,129.0,1,Confort
+Samsung,Galaxy Tab E 8.0 16GB,Qualcomm MSM8916,2016,360.0,1,2,5,5000,8.0,99.0,1,Confort
+OnePlus,OnePlus 12 256GB,Snapdragon 8 Gen 3,2024,205.0,12,32,50,5000,6.7,799.0,5,Pro
+OnePlus,OnePlus 12R 256GB,Snapdragon 8 Gen 2,2024,203.0,12,16,50,4500,6.7,699.0,5,Pro
+OnePlus,OnePlus 11 256GB,Snapdragon 8 Gen 1,2023,205.0,12,16,50,5000,6.7,699.0,5,Pro
+OnePlus,OnePlus 11R 256GB,Snapdragon 8 Gen 1,2023,202.0,12,16,50,5000,6.7,599.0,5,Pro
+OnePlus,OnePlus Nord 3 256GB,MediaTek Dimensity 9000,2023,190.0,12,16,50,5000,6.74,499.0,5,Pro
+OnePlus,OnePlus Nord CE 3 128GB,Snapdragon 782G,2023,179.0,8,16,50,5000,6.72,399.0,0,Essentiel
+OnePlus,OnePlus Nord CE 3 Lite 128GB,Snapdragon 695,2023,195.0,8,16,108,5000,6.72,299.0,3,Expert
+OnePlus,OnePlus Nord N30 5G 128GB,MediaTek Dimensity 6020,2023,192.0,8,16,64,5000,6.72,249.0,0,Essentiel
+OnePlus,OnePlus Open 256GB,Snapdragon 8 Gen 2,2024,238.0,16,32,48,4800,7.8,1099.0,5,Pro
+OnePlus,OnePlus 10 Pro 256GB,Snapdragon 8 Gen 1,2022,200.0,12,32,50,5000,6.7,899.0,5,Pro
+OnePlus,OnePlus 10T 256GB,Snapdragon 8+ Gen 1,2022,203.0,12,16,50,4500,6.7,749.0,5,Pro
+OnePlus,OnePlus 9 Pro 256GB,Snapdragon 888,2021,192.0,12,16,48,4500,6.7,699.0,5,Pro
+OnePlus,OnePlus 9 128GB,Snapdragon 888,2021,183.0,8,16,48,4500,6.55,599.0,0,Essentiel
+OnePlus,OnePlus 11 Pro 256GB,Snapdragon 8 Gen 2,2023,204.0,16,32,50,5000,6.7,899.0,5,Pro
+OnePlus,OnePlus Nord 2T 128GB,MediaTek Dimensity 1300,2022,190.0,8,32,50,4500,6.43,399.0,2,Performance
+OnePlus,OnePlus Nord 2 128GB,MediaTek Dimensity 1200-AI,2021,190.0,8,32,50,4500,6.43,349.0,2,Performance
+OnePlus,OnePlus Nord N200 64GB,Snapdragon 480,2021,189.0,4,16,13,5000,6.49,199.0,1,Confort
+OnePlus,OnePlus Nord N100 64GB,Qualcomm Snapdragon 460,2020,185.0,4,8,13,5000,6.52,179.0,1,Confort
+OnePlus,OnePlus 8T Cyberpunk 2077 Edition 256GB,Snapdragon 865,2020,188.0,12,16,48,4500,6.55,749.0,5,Pro
+OnePlus,OnePlus 9T 128GB,Snapdragon 888,2021,192.0,8,16,48,4500,6.55,649.0,0,Essentiel
+OnePlus,OnePlus 8T 256GB,Snapdragon 865,2020,188.0,12,16,48,4500,6.55,599.0,5,Pro
+OnePlus,OnePlus 10T 5G 256GB,Snapdragon 8+ Gen 1,2022,203.0,12,16,50,4500,6.7,749.0,5,Pro
+OnePlus,OnePlus 9R 5G 128GB,Snapdragon 870,2021,189.0,8,16,48,4500,6.55,599.0,0,Essentiel
+OnePlus,OnePlus 8 Pro 256GB,Snapdragon 865,2020,199.0,12,16,48,4510,6.78,749.0,5,Pro
+OnePlus,OnePlus 8 128GB,Snapdragon 865,2020,180.0,8,16,48,4300,6.55,699.0,0,Essentiel
+OnePlus,OnePlus Nord CE 2 Lite 128GB,MediaTek Dimensity 900,2022,195.0,6,16,64,5000,6.59,249.0,0,Essentiel
+OnePlus,OnePlus Nord CE 2 128GB,MediaTek Dimensity 1200,2022,173.0,8,16,64,4500,6.43,299.0,0,Essentiel
+OnePlus,OnePlus Nord 1 128GB,Snapdragon 765G,2020,184.0,6,16,48,4115,6.44,349.0,0,Essentiel
+OnePlus,OnePlus Nord CE 5G 128GB,Snapdragon 750G,2021,170.0,6,16,64,4500,6.43,299.0,0,Essentiel
+OnePlus,OnePlus Nord 2 5G 128GB,MediaTek Dimensity 1200-AI,2021,189.0,8,32,50,4500,6.43,399.0,2,Performance
+OnePlus,OnePlus Nord N100 5G 64GB,Qualcomm Snapdragon 460,2020,185.0,4,8,13,5000,6.52,179.0,1,Confort
+OnePlus,OnePlus Nord N10 5G 128GB,Qualcomm Snapdragon 690,2020,190.0,6,16,64,4300,6.49,299.0,0,Essentiel
+OnePlus,OnePlus 8R 128GB,Snapdragon 865,2020,192.0,8,16,48,4300,6.55,649.0,0,Essentiel
+OnePlus,OnePlus 7R 128GB,Snapdragon 855,2020,190.0,6,16,48,3700,6.41,599.0,0,Essentiel
+OnePlus,OnePlus 6T McLaren Edition 256GB,Snapdragon 845,2018,185.0,10,16,20,3700,6.41,799.0,1,Confort
+OnePlus,OnePlus 5T Star Wars Edition 128GB,Snapdragon 835,2017,162.0,6,16,16,3300,6.01,649.0,1,Confort
+OnePlus,OnePlus 13R 128GB,Snapdragon 8 Gen 2,2023,210.0,8,16,50,4500,6.7,849.0,0,Essentiel
+OnePlus,OnePlus 11T 128GB,Snapdragon 8 Gen 2,2023,202.0,12,32,50,5000,6.7,799.0,5,Pro
+OnePlus,OnePlus 10R 128GB,MediaTek Dimensity 8100,2022,205.0,8,16,50,4500,6.7,599.0,0,Essentiel
+OnePlus,OnePlus 7 Pro 5G 256GB,Snapdragon 855,2019,206.0,12,16,48,4000,6.67,799.0,5,Pro
+OnePlus,OnePlus 6 Special Edition 128GB,Snapdragon 845,2018,177.0,6,16,20,3300,6.28,599.0,1,Confort
+OnePlus,OnePlus 5 Special Edition 128GB,Snapdragon 835,2017,155.0,8,16,20,3300,5.5,599.0,1,Confort
+OnePlus,OnePlus Nord X 128GB,Snapdragon 765G,2020,190.0,8,32,64,4000,6.44,299.0,2,Performance
+OnePlus,OnePlus 8 Pro McLaren Edition 256GB,Snapdragon 865,2020,199.0,12,16,48,4510,6.78,899.0,5,Pro
+OnePlus,OnePlus 8T Cyberpunk Edition 256GB,Snapdragon 865,2020,188.0,12,16,48,4500,6.55,799.0,5,Pro
+OnePlus,OnePlus 7T Pro 5G McLaren Edition 256GB,Snapdragon 855,2019,206.0,12,16,48,4085,6.67,899.0,5,Pro
+OnePlus,OnePlus 15R 128GB,Snapdragon 8 Gen 3,2023,210.0,12,32,50,5000,6.7,849.0,5,Pro
+OnePlus,OnePlus 14+ 128GB,Snapdragon 8 Gen 2,2023,202.0,8,16,64,4800,6.55,799.0,0,Essentiel
+OnePlus,OnePlus 13 Pro 256GB,Snapdragon 8 Gen 2,2023,215.0,12,32,50,5000,6.7,899.0,5,Pro
+OnePlus,OnePlus 12T 5G 256GB,Snapdragon 8 Gen 2,2023,200.0,12,16,50,5000,6.7,849.0,5,Pro
+OnePlus,OnePlus Pad,MediaTek Dimensity 9000,2023,550.0,8,8,13,9510,11.61,499.0,4,Tablettes
+OnePlus,OnePlus Pad 2,MediaTek Dimensity 9000,2024,550.0,8,8,13,9510,11.61,549.0,4,Tablettes
+OnePlus,OnePlus Pad Pro,Snapdragon 8 Gen 3,2024,610.0,12,16,50,11000,12.4,799.0,4,Tablettes
+Vivo,X200 128GB,Dimensity 9400,2024,223.0,12,32,50,6000,6.78,999.0,5,Pro
+Vivo,X200 256GB,Dimensity 9400,2024,223.0,12,32,50,6000,6.78,1099.0,5,Pro
+Vivo,X200 Pro 256GB,Dimensity 9400,2024,223.0,16,32,200,6000,6.78,1199.0,6,Ultra Pro
+Vivo,X200 Pro 512GB,Dimensity 9400,2024,223.0,16,32,200,6000,6.78,1299.0,6,Ultra Pro
+Vivo,X200 Pro Mini 256GB,Dimensity 9400,2024,187.0,16,32,50,5700,6.31,949.0,5,Pro
+Vivo,V40e 128GB,Snapdragon 778G,2024,179.0,8,44,64,4100,6.44,449.0,2,Performance
+Vivo,Y200 GT 128GB,Dimensity 1200,2024,190.0,12,16,64,5000,6.58,399.0,5,Pro
+Vivo,T3 5G 128GB,Snapdragon 870,2024,180.0,8,16,50,5000,6.67,349.0,0,Essentiel
+Vivo,Y100 5G 128GB,Dimensity 900,2024,181.0,8,16,64,4500,6.38,299.0,0,Essentiel
+Vivo,S18 Pro 256GB,Snapdragon 8 Gen 2,2024,189.0,12,32,108,4700,6.56,599.0,3,Expert
+Vivo,V30 Pro 128GB,Dimensity 1100,2024,192.0,12,32,64,4500,6.44,549.0,5,Pro
+Vivo,iQOO 12 256GB,Snapdragon 8 Gen 3,2024,210.0,16,16,50,5000,6.78,699.0,5,Pro
+Vivo,Z3 64GB,Snapdragon 710,2018,162.0,6,12,16,3315,6.3,249.0,1,Confort
+Vivo,V9 64GB,Snapdragon 626,2018,150.0,4,24,16,3260,6.3,219.0,1,Confort
+Vivo,X9 Plus 128GB,Snapdragon 653,2017,199.0,6,20,16,4000,5.88,299.0,1,Confort
+Vivo,Y81 32GB,MediaTek Helio P22,2018,146.0,3,5,13,3260,6.22,149.0,1,Confort
+Vivo,X5Max 16GB,Snapdragon 615,2014,146.0,2,5,13,2300,5.5,199.0,1,Confort
+Vivo,V5 Plus 64GB,Snapdragon 625,2017,158.0,4,20,16,3055,5.5,249.0,1,Confort
+Vivo,Y95 64GB,Snapdragon 439,2018,163.0,4,20,13,4030,6.22,199.0,1,Confort
+Vivo,V3 Max 32GB,Snapdragon 652,2016,168.0,4,8,13,3000,5.5,179.0,1,Confort
+Vivo,X3S 16GB,MediaTek MT6592,2014,153.0,1,5,13,2000,5.0,139.0,1,Confort
+Vivo,Y66 32GB,Snapdragon 430,2017,155.0,3,16,13,3000,5.5,179.0,1,Confort
+Vivo,V19 128GB,Qualcomm Snapdragon 712,2020,176.0,8,32,48,4500,6.44,399.0,2,Performance
+Vivo,V19 256GB,Qualcomm Snapdragon 712,2020,176.0,8,32,48,4500,6.44,429.0,2,Performance
+Vivo,V17 Pro 128GB,Qualcomm Snapdragon 675,2019,201.0,8,32,48,4100,6.44,399.0,2,Performance
+Vivo,V17 Pro 256GB,Qualcomm Snapdragon 675,2019,201.0,8,32,48,4100,6.44,429.0,2,Performance
+Vivo,Y12s 64GB,MediaTek Helio P35,2020,191.0,3,8,13,5000,6.51,159.0,1,Confort
+Vivo,Y12s 128GB,MediaTek Helio P35,2020,191.0,4,8,13,5000,6.51,179.0,1,Confort
+Vivo,S1 Pro 128GB,MediaTek Helio P65,2019,185.0,6,32,48,4500,6.38,249.0,2,Performance
+Vivo,S1 Pro 256GB,MediaTek Helio P65,2019,185.0,6,32,48,4500,6.38,269.0,2,Performance
+Vivo,Y11 32GB,Qualcomm Snapdragon 439,2019,190.0,3,8,13,5000,6.35,149.0,1,Confort
+Vivo,Y11 64GB,Qualcomm Snapdragon 439,2019,190.0,3,8,13,5000,6.35,169.0,1,Confort
+Vivo,V15 128GB,MediaTek Helio P70,2019,190.0,6,32,48,4000,6.53,299.0,2,Performance
+Vivo,V15 256GB,MediaTek Helio P70,2019,190.0,6,32,48,4000,6.53,319.0,2,Performance
+Vivo,X27 Pro 128GB,Qualcomm Snapdragon 710,2019,190.0,8,32,48,4000,6.39,499.0,2,Performance
+Vivo,X27 Pro 256GB,Qualcomm Snapdragon 710,2019,190.0,8,32,48,4000,6.39,549.0,2,Performance
+Vivo,Y30 128GB,MediaTek Helio P35,2020,193.0,4,8,13,5000,6.47,199.0,1,Confort
+Vivo,Y30 64GB,MediaTek Helio P35,2020,193.0,3,8,13,5000,6.47,169.0,1,Confort
+Vivo,Z1 Pro 64GB,Qualcomm Snapdragon 712,2019,159.0,4,16,16,4500,6.53,249.0,1,Confort
+Vivo,Z1 Pro 128GB,Qualcomm Snapdragon 712,2019,159.0,6,16,16,4500,6.53,299.0,1,Confort
+Vivo,X21 128GB,Qualcomm Snapdragon 660,2018,156.0,6,12,12,3200,6.28,349.0,1,Confort
+Vivo,X21 64GB,Qualcomm Snapdragon 660,2018,156.0,4,12,12,3200,6.28,299.0,1,Confort
+Vivo,V23e 128GB,MediaTek Helio G96,2021,172.0,8,50,64,4050,6.44,299.0,2,Performance
+Vivo,V23e 256GB,MediaTek Helio G96,2021,172.0,8,50,64,4050,6.44,349.0,2,Performance
+Vivo,Y33s 128GB,MediaTek Helio G80,2021,182.0,8,16,50,5000,6.58,239.0,0,Essentiel
+Vivo,Y33s 64GB,MediaTek Helio G80,2021,182.0,4,16,50,5000,6.58,179.0,0,Essentiel
+Vivo,X60 Pro 256GB,Qualcomm Snapdragon 870,2021,190.0,12,32,48,4200,6.56,899.0,5,Pro
+Vivo,X60 Pro 512GB,Qualcomm Snapdragon 870,2021,190.0,12,32,48,4200,6.56,999.0,5,Pro
+Vivo,V20 Pro 128GB,Qualcomm Snapdragon 765G,2020,173.0,8,44,64,4000,6.44,499.0,2,Performance
+Vivo,V20 Pro 256GB,Qualcomm Snapdragon 765G,2020,173.0,8,44,64,4000,6.44,549.0,2,Performance
+Vivo,Y75 5G 128GB,MediaTek Dimensity 700,2021,179.0,8,16,50,5000,6.58,349.0,0,Essentiel
+Vivo,Y75 5G 256GB,MediaTek Dimensity 700,2021,179.0,8,16,50,5000,6.58,399.0,0,Essentiel
+Vivo,Y53s 128GB,MediaTek Helio G80,2021,190.0,6,16,64,5000,6.58,229.0,0,Essentiel
+Vivo,Y53s 64GB,MediaTek Helio G80,2021,190.0,6,16,64,5000,6.58,179.0,0,Essentiel
+Vivo,V15 Pro 128GB,Qualcomm Snapdragon 675,2019,185.0,6,32,48,3700,6.39,399.0,2,Performance
+Vivo,V15 Pro 256GB,Qualcomm Snapdragon 675,2019,185.0,6,32,48,3700,6.39,449.0,2,Performance
+Vivo,X70 Pro 128GB,MediaTek Dimensity 1200,2021,185.0,8,32,50,4450,6.56,749.0,2,Performance
+Vivo,X70 Pro 256GB,MediaTek Dimensity 1200,2021,185.0,8,32,50,4450,6.56,799.0,2,Performance
+Vivo,T1 5G 128GB,Qualcomm Snapdragon 695,2022,181.0,6,16,50,5000,6.58,269.0,0,Essentiel
+Vivo,T1 5G 256GB,Qualcomm Snapdragon 695,2022,181.0,8,16,50,5000,6.58,319.0,0,Essentiel
+Vivo,X30 Pro 128GB,Qualcomm Snapdragon 855,2019,199.0,8,32,64,4200,6.44,899.0,2,Performance
+Vivo,X30 Pro 256GB,Qualcomm Snapdragon 855,2019,199.0,8,32,64,4200,6.44,949.0,2,Performance
+Vivo,V27 128GB,MediaTek Dimensity 8200,2023,182.0,8,50,50,4600,6.78,599.0,2,Performance
+Vivo,V27 256GB,MediaTek Dimensity 8200,2023,182.0,8,50,50,4600,6.78,649.0,2,Performance
+Vivo,V27 Pro 128GB,MediaTek Dimensity 8200,2023,182.0,8,50,50,4600,6.78,699.0,2,Performance
+Vivo,V27 Pro 256GB,MediaTek Dimensity 8200,2023,182.0,8,50,50,4600,6.78,749.0,2,Performance
+Vivo,V25 Pro 128GB,MediaTek Dimensity 1300,2022,190.0,8,32,64,4830,6.56,599.0,2,Performance
+Vivo,V25 Pro 256GB,MediaTek Dimensity 1300,2022,190.0,8,32,64,4830,6.56,649.0,2,Performance
+Vivo,X90 Pro 256GB,MediaTek Dimensity 9200,2022,221.0,12,32,50,4870,6.78,1099.0,5,Pro
+Vivo,X90 Pro 512GB,MediaTek Dimensity 9200,2022,221.0,12,32,50,4870,6.78,1199.0,5,Pro
+Vivo,Y100 128GB,MediaTek Dimensity 900,2023,190.0,8,16,64,4500,6.44,399.0,0,Essentiel
+Vivo,Y100 256GB,MediaTek Dimensity 900,2023,190.0,8,16,64,4500,6.44,449.0,0,Essentiel
+Vivo,T2 Series 128GB,Qualcomm Snapdragon 695,2023,190.0,8,16,64,4500,6.44,299.0,0,Essentiel
+Vivo,T2 Series 256GB,Qualcomm Snapdragon 695,2023,190.0,8,16,64,4500,6.44,349.0,0,Essentiel
+Vivo,V23 5G 128GB,MediaTek Dimensity 920,2022,179.0,8,50,64,4200,6.44,499.0,2,Performance
+Vivo,V23 5G 256GB,MediaTek Dimensity 920,2022,179.0,8,50,64,4200,6.44,549.0,2,Performance
+Vivo,X80 256GB,MediaTek Dimensity 9000,2022,206.0,12,32,50,4700,6.78,899.0,5,Pro
+Vivo,X80 512GB,MediaTek Dimensity 9000,2022,206.0,12,32,50,4700,6.78,999.0,5,Pro
+Vivo,Y21 128GB,MediaTek Helio P35,2021,182.0,4,8,13,5000,6.51,199.0,1,Confort
+Vivo,Y21 64GB,MediaTek Helio P35,2021,182.0,4,8,13,5000,6.51,179.0,1,Confort
+Vivo,Pad 128GB,Snapdragon 870,2022,498.0,6,8,13,8040,11.0,329.0,4,Tablettes
+Vivo,Pad 2 256GB,MediaTek Dimensity 1200,2023,535.0,8,8,50,8040,11.0,399.0,4,Tablettes
+Vivo,Pad Air 128GB,Snapdragon 870,2023,510.0,6,8,13,8040,10.4,279.0,4,Tablettes
+Vivo,Pad 3 128GB,Snapdragon 750G,2023,500.0,6,8,13,8040,11.0,349.0,4,Tablettes
+Vivo,Pad 3 Pro 256GB,Snapdragon 888,2023,550.0,8,8,50,8040,12.3,449.0,4,Tablettes
+Vivo,Pad 4 Pro 256GB,MediaTek Dimensity 9000,2024,560.0,8,8,50,8040,12.9,499.0,4,Tablettes
+iQOO,Pad 128GB,Snapdragon 870,2023,520.0,6,8,13,8040,11.0,349.0,4,Tablettes
+iQOO,Pad 2 256GB,Snapdragon 888,2024,540.0,8,8,50,8040,12.3,399.0,4,Tablettes
+iQOO,Pad 2 Pro 256GB,Snapdragon 8 Gen 1,2024,555.0,8,8,50,8040,12.3,449.0,4,Tablettes
+Oppo,Find N3 512GB,Snapdragon 8 Gen 2,2023,239.0,12,32,48,4805,7.82,1399.0,5,Pro
+Oppo,Find N3 Flip 256GB,MediaTek Dimensity 9200,2023,198.0,12,32,50,4300,6.8,999.0,5,Pro
+Oppo,Find X8 Pro 256GB,Snapdragon 8 Gen 2,2024,210.0,12,32,50,5000,6.8,1299.0,5,Pro
+Oppo,Find X8 256GB,Snapdragon 8 Gen 2,2024,195.0,8,32,50,4800,6.7,1099.0,2,Performance
+Oppo,Reno13 F 4G 256GB,MediaTek Helio G100,2025,192.0,8,32,50,5800,6.67,499.0,2,Performance
+Oppo,Reno13 F 256GB,MediaTek Helio G100,2025,192.0,8,32,50,5800,6.67,499.0,2,Performance
+Oppo,Reno13 Pro 512GB,MediaTek Dimensity 8350,2025,210.0,12,50,50,5800,6.83,799.0,2,Performance
+Oppo,Reno13 256GB,MediaTek Dimensity 8350,2025,200.0,12,50,50,5600,6.59,699.0,2,Performance
+Oppo,Reno12 F 4G 256GB,Snapdragon 685,2024,187.0,8,32,50,5000,6.7,449.0,2,Performance
+Oppo,Reno12 F 256GB,Snapdragon 685,2024,187.0,8,32,50,5000,6.7,449.0,2,Performance
+Oppo,Reno12 Pro 512GB,MediaTek Dimensity 8200,2024,190.0,12,32,50,4600,6.74,749.0,5,Pro
+Oppo,Reno12 256GB,MediaTek Dimensity 7050,2024,185.0,8,32,50,5000,6.7,599.0,2,Performance
+Oppo,Reno11 F 256GB,MediaTek Dimensity 7050,2024,185.0,8,32,64,5000,6.7,499.0,2,Performance
+Oppo,Reno11 Pro 512GB,MediaTek Dimensity 8200,2024,190.0,12,32,50,4600,6.74,699.0,5,Pro
+Oppo,A5 Pro 256GB,Dimensity 7300,2024,180.0,8,16,50,6000,6.7,599.0,0,Essentiel
+Oppo,A5 Pro 512GB,Dimensity 7300,2024,186.0,12,16,50,6000,6.7,699.0,5,Pro
+Oppo,A80 256GB,Dimensity 6300,2024,186.0,8,8,50,5100,6.67,499.0,0,Essentiel
+Oppo,A3 4G 128GB,Snapdragon 6s 4G Gen 1,2024,186.0,4,5,50,5000,6.7,399.0,0,Essentiel
+Oppo,A3x 4G 128GB,Snapdragon 6s 4G Gen 1,2024,186.0,4,8,8,5100,6.67,449.0,1,Confort
+Oppo,A3x 4G 256GB,Snapdragon 6s 4G Gen 1,2024,186.0,6,8,8,5100,6.67,499.0,1,Confort
+Oppo,A3 128GB,Snapdragon 6s 4G Gen 1,2024,186.0,4,5,50,5000,6.7,399.0,0,Essentiel
+Oppo,A3x 128GB,Snapdragon 6s 4G Gen 1,2024,186.0,4,8,8,5100,6.67,449.0,1,Confort
+Oppo,A3x 256GB,Snapdragon 6s 4G Gen 1,2024,186.0,6,8,8,5100,6.67,499.0,1,Confort
+Oppo,A60 128GB,Snapdragon 680 4G,2024,186.0,8,8,50,5000,6.67,449.0,0,Essentiel
+Oppo,A60 256GB,Snapdragon 680 4G,2024,186.0,8,8,50,5000,6.67,499.0,0,Essentiel
+Oppo,K12 Plus 256GB,Snapdragon 7 Gen 3,2024,192.0,8,16,50,6400,6.7,699.0,0,Essentiel
+Oppo,K12 Plus 512GB,Snapdragon 7 Gen 3,2024,192.0,12,16,50,6400,6.7,799.0,5,Pro
+Oppo,F27 128GB,Dimensity 7050,2024,175.0,8,32,64,5000,6.7,499.0,2,Performance
+Oppo,F27 256GB,Dimensity 7050,2024,175.0,8,32,64,5000,6.7,549.0,2,Performance
+Oppo,F27 Pro+ 256GB,Dimensity 7050,2024,177.0,8,32,64,5000,6.7,599.0,2,Performance
+Oppo,F27 Pro+ 512GB,Dimensity 7050,2024,177.0,12,32,64,5000,6.7,699.0,5,Pro
+Oppo,F25 Pro 128GB,Snapdragon 778G,2023,173.0,8,32,64,4500,6.55,549.0,2,Performance
+Oppo,F25 Pro 256GB,Snapdragon 778G,2023,173.0,8,32,64,4500,6.55,599.0,2,Performance
+Oppo,Pad 3 128GB,Dimensity 8350,2024,533.0,8,8,13,9510,11.6,699.0,4,Tablettes
+Oppo,Pad 3 256GB,Dimensity 8350,2024,533.0,12,8,13,9510,11.6,799.0,4,Tablettes
+Oppo,Pad 3 Pro 256GB,Snapdragon 8 Gen 3,2024,586.0,12,8,13,9510,12.1,899.0,4,Tablettes
+Oppo,Pad 3 Pro 512GB,Snapdragon 8 Gen 3,2024,586.0,16,8,13,9510,12.1,999.0,4,Tablettes
+Oppo,Pad Neo 128GB,Snapdragon 870,2023,520.0,6,8,13,8360,11.0,499.0,4,Tablettes
+Oppo,Pad Neo 256GB,Snapdragon 870,2023,520.0,8,8,13,8360,11.0,599.0,4,Tablettes
+Oppo,Find X7 Ultra 256GB,Snapdragon 8 Gen 3,2024,221.0,12,32,50,5000,6.82,1199.0,5,Pro
+Oppo,Find X7 Ultra 512GB,Snapdragon 8 Gen 3,2024,221.0,16,32,50,5000,6.82,1299.0,5,Pro
+Oppo,Find X7 256GB,Dimensity 9300,2024,206.0,12,32,50,5000,6.78,1099.0,5,Pro
+Oppo,Find X7 512GB,Dimensity 9300,2024,206.0,16,32,50,5000,6.78,1199.0,5,Pro
+Oppo,Find X6 Pro 256GB,Snapdragon 8 Gen 2,2023,218.0,12,32,50,5000,6.82,999.0,5,Pro
+Oppo,Find X6 Pro 512GB,Snapdragon 8 Gen 2,2023,218.0,16,32,50,5000,6.82,1099.0,5,Pro
+Oppo,Find X6 256GB,Dimensity 9200,2023,207.0,12,32,50,4800,6.74,899.0,5,Pro
+Oppo,Find X6 512GB,Dimensity 9200,2023,207.0,16,32,50,4800,6.74,999.0,5,Pro
+Oppo,Find X5 Pro 256GB,Snapdragon 8 Gen 1,2022,218.0,12,32,50,5000,6.7,899.0,5,Pro
+Oppo,Find X5 Pro 512GB,Snapdragon 8 Gen 1,2022,218.0,16,32,50,5000,6.7,999.0,5,Pro
+Oppo,Find X5 256GB,Snapdragon 888,2022,196.0,8,32,50,4800,6.55,799.0,2,Performance
+Oppo,Find N2 Flip 256GB,Dimensity 9000+,2023,191.0,8,32,50,4300,6.8,899.0,2,Performance
+Oppo,Find N2 Flip 512GB,Dimensity 9000+,2023,191.0,12,32,50,4300,6.8,999.0,5,Pro
+Oppo,Find N2 256GB,Snapdragon 8+ Gen 1,2022,233.0,12,32,50,4520,7.1,1099.0,5,Pro
+Oppo,Reno10 5G 128GB,Dimensity 7050,2023,180.0,8,32,64,5000,6.7,499.0,2,Performance
+Oppo,Reno10 5G 256GB,Dimensity 7050,2023,180.0,8,32,64,5000,6.7,549.0,2,Performance
+Oppo,Reno10 Pro 5G 256GB,Snapdragon 778G,2023,186.0,12,32,50,4600,6.7,599.0,5,Pro
+Oppo,Reno10 Pro+ 5G 256GB,Snapdragon 8+ Gen 1,2023,194.0,16,32,50,4700,6.74,699.0,5,Pro
+Oppo,Reno9 5G 128GB,Snapdragon 778G,2022,174.0,8,32,64,4500,6.7,449.0,2,Performance
+Oppo,Reno9 5G 256GB,Snapdragon 778G,2022,174.0,12,32,64,4500,6.7,499.0,5,Pro
+Oppo,Reno9 Pro 5G 256GB,Dimensity 8100,2022,184.0,16,32,50,4500,6.7,599.0,5,Pro
+Oppo,Reno9 Pro+ 5G 256GB,Snapdragon 8+ Gen 1,2022,192.0,16,32,50,4700,6.7,649.0,5,Pro
+Oppo,Reno8 5G 128GB,Dimensity 1300,2022,179.0,8,32,50,4500,6.4,399.0,2,Performance
+Oppo,Reno8 5G 256GB,Dimensity 1300,2022,179.0,12,32,50,4500,6.4,449.0,5,Pro
+Oppo,Reno8 Pro 5G 256GB,Dimensity 8100,2022,183.0,12,32,50,4500,6.7,549.0,5,Pro
+Oppo,Reno8 Pro+ 5G 256GB,Dimensity 8100,2022,195.0,12,32,50,4500,6.7,599.0,5,Pro
+Oppo,Reno7 5G 128GB,Dimensity 900,2021,173.0,8,32,64,4500,6.4,349.0,2,Performance
+Oppo,Reno7 5G 256GB,Dimensity 900,2021,173.0,12,32,64,4500,6.4,399.0,5,Pro
+Oppo,Reno7 Pro 5G 256GB,Dimensity 1200,2021,180.0,12,32,50,4500,6.55,499.0,5,Pro
+Oppo,Reno6 5G 128GB,Dimensity 900,2021,182.0,8,32,64,4300,6.43,349.0,2,Performance
+Oppo,Reno6 5G 256GB,Dimensity 900,2021,182.0,12,32,64,4300,6.43,399.0,5,Pro
+Oppo,Reno6 Pro 5G 128GB,Dimensity 1200,2021,177.0,8,32,64,4500,6.55,449.0,2,Performance
+Oppo,Reno6 Pro 5G 256GB,Dimensity 1200,2021,177.0,12,32,64,4500,6.55,499.0,5,Pro
+Oppo,Reno6 Pro+ 5G 256GB,Snapdragon 870,2021,188.0,12,32,50,4500,6.55,599.0,5,Pro
+Oppo,Reno5 5G 128GB,Snapdragon 765G,2020,180.0,8,32,64,4300,6.43,299.0,2,Performance
+Oppo,Reno5 5G 256GB,Snapdragon 765G,2020,180.0,12,32,64,4300,6.43,349.0,5,Pro
+Oppo,Reno5 Pro 5G 128GB,Dimensity 1000+,2020,173.0,8,32,64,4350,6.55,399.0,2,Performance
+Oppo,Reno5 Pro 5G 256GB,Dimensity 1000+,2020,173.0,12,32,64,4350,6.55,449.0,5,Pro
+Oppo,Reno5 Pro+ 5G 256GB,Snapdragon 865,2020,184.0,12,32,50,4500,6.55,599.0,5,Pro
+Oppo,Reno4 5G 128GB,Snapdragon 765G,2020,183.0,8,32,48,4000,6.43,299.0,2,Performance
+Oppo,Reno4 5G 256GB,Snapdragon 765G,2020,183.0,8,32,48,4000,6.43,349.0,2,Performance
+Oppo,Reno4 Pro 5G 256GB,Snapdragon 765G,2020,172.0,12,32,48,4000,6.55,499.0,5,Pro
+Oppo,Reno3 5G 128GB,Dimensity 1000L,2019,181.0,8,32,64,4025,6.4,249.0,2,Performance
+Oppo,Reno3 5G 256GB,Dimensity 1000L,2019,181.0,12,32,64,4025,6.4,299.0,5,Pro
+Oppo,Reno3 Pro 5G 256GB,Snapdragon 765G,2019,171.0,12,32,48,4025,6.5,499.0,5,Pro
+Oppo,A59 5G 128GB,MediaTek Dimensity 6020,2023,186.0,6,8,13,5000,6.56,199.0,1,Confort
+Oppo,A59 5G 256GB,MediaTek Dimensity 6020,2023,186.0,8,8,13,5000,6.56,229.0,1,Confort
+Oppo,A58 5G 256GB,MediaTek Dimensity 700,2022,188.0,8,8,50,5000,6.56,249.0,0,Essentiel
+Oppo,A57 5G 128GB,MediaTek Dimensity 810,2022,186.0,6,8,13,5000,6.56,219.0,1,Confort
+Oppo,A56 5G 128GB,MediaTek Dimensity 700,2021,189.0,6,8,13,5000,6.5,199.0,1,Confort
+Oppo,A55 5G 128GB,MediaTek Dimensity 700,2021,186.0,6,8,13,5000,6.5,189.0,1,Confort
+Oppo,A54 5G 128GB,Qualcomm Snapdragon 480,2021,190.0,6,16,48,5000,6.5,219.0,0,Essentiel
+Oppo,A53 5G 128GB,MediaTek Dimensity 720,2020,175.0,4,8,16,4040,6.5,179.0,1,Confort
+Oppo,A52 5G 128GB,MediaTek Dimensity 720,2020,184.0,4,8,12,4000,6.5,169.0,1,Confort
+Oppo,A51 5G 128GB,MediaTek Dimensity 700,2020,186.0,4,8,13,4000,6.5,149.0,1,Confort
+Oppo,A50 5G 128GB,MediaTek Dimensity 700,2020,185.0,4,8,13,4000,6.5,139.0,1,Confort
+Oppo,A49 5G 128GB,MediaTek Dimensity 700,2020,185.0,4,8,13,4000,6.5,129.0,1,Confort
+Oppo,A40 128GB,Qualcomm Snapdragon 6s Gen 1,2024,186.0,4,5,50,5100,6.67,199.0,0,Essentiel
+Oppo,A40 256GB,Qualcomm Snapdragon 6s Gen 1,2024,186.0,6,5,50,5100,6.67,229.0,0,Essentiel
+Oppo,K11x 128GB,Qualcomm Snapdragon 695,2023,195.0,8,16,108,5000,6.72,199.0,3,Expert
+Oppo,K11x 256GB,Qualcomm Snapdragon 695,2023,195.0,12,16,108,5000,6.72,229.0,3,Expert
+Oppo,K10x 128GB,Qualcomm Snapdragon 695,2022,195.0,6,16,64,5000,6.59,199.0,0,Essentiel
+Oppo,K10x 256GB,Qualcomm Snapdragon 695,2022,195.0,8,16,64,5000,6.59,229.0,0,Essentiel
+Oppo,K10 5G 128GB,MediaTek Dimensity 8000-Max,2022,205.0,8,16,64,5000,6.59,249.0,0,Essentiel
+Oppo,K9x 128GB,MediaTek Dimensity 810,2021,194.0,6,16,64,5000,6.5,199.0,0,Essentiel
+Oppo,K9x 256GB,MediaTek Dimensity 810,2021,194.0,8,16,64,5000,6.5,229.0,0,Essentiel
+Oppo,K9 Pro 5G 128GB,MediaTek Dimensity 1200,2021,180.0,8,16,64,4500,6.43,299.0,0,Essentiel
+Oppo,K9 Pro 5G 256GB,MediaTek Dimensity 1200,2021,180.0,12,16,64,4500,6.43,329.0,5,Pro
+Oppo,K9 5G 128GB,Qualcomm Snapdragon 768G,2021,172.0,8,32,64,4300,6.43,279.0,2,Performance
+Oppo,K9 5G 256GB,Qualcomm Snapdragon 768G,2021,172.0,8,32,64,4300,6.43,299.0,2,Performance
+Oppo,K7x 128GB,MediaTek Dimensity 720,2020,194.0,6,16,48,5000,6.5,199.0,0,Essentiel
+Oppo,K7 5G 128GB,Qualcomm Snapdragon 765G,2020,180.0,8,32,48,4025,6.4,279.0,2,Performance
+Oppo,K7 5G 256GB,Qualcomm Snapdragon 765G,2020,180.0,8,32,48,4025,6.4,299.0,2,Performance
+Oppo,K11 128GB,Qualcomm Snapdragon 782G,2023,184.0,8,16,64,5000,6.7,259.0,0,Essentiel
+Oppo,K11 256GB,Qualcomm Snapdragon 782G,2023,184.0,12,16,64,5000,6.7,299.0,5,Pro
+Oppo,K10 5G 256GB,MediaTek Dimensity 8000-Max,2022,205.0,12,16,64,5000,6.59,279.0,5,Pro
+Realme,GT 7 Pro 128GB,Qualcomm Snapdragon 8 Elite,2024,222.8,12,16,50,6500,6.78,470.0,5,Pro
+Realme,GT 7 Pro 256GB,Qualcomm Snapdragon 8 Elite,2024,222.8,16,16,50,6500,6.78,500.0,5,Pro
+Realme,GT 6 128GB,Qualcomm Snapdragon 8s Gen 3,2023,191.0,8,32,50,5500,6.78,380.0,2,Performance
+Realme,GT 6 256GB,Qualcomm Snapdragon 8s Gen 3,2023,191.0,12,32,50,5500,6.78,400.0,5,Pro
+Realme,GT 6 512GB,Qualcomm Snapdragon 8s Gen 3,2023,191.0,16,32,50,5500,6.78,420.0,5,Pro
+Realme,GT 6T 128GB,Qualcomm Snapdragon 7 Plus Gen 3,2023,191.0,8,32,50,5500,6.78,360.0,2,Performance
+Realme,GT 6T 256GB,Qualcomm Snapdragon 7 Plus Gen 3,2023,191.0,8,32,50,5500,6.78,380.0,2,Performance
+Realme,14 Pro+ 5G 256GB,Qualcomm Snapdragon 7s Gen 3,2025,184.0,12,16,50,6000,6.83,340.0,5,Pro
+Realme,14 Pro+ 5G 512GB,Qualcomm Snapdragon 7s Gen 3,2025,184.0,12,16,50,6000,6.83,360.0,5,Pro
+Realme,14 Pro 5G 128GB,MediaTek Dimensity 7300 Energy,2025,184.0,8,16,50,5800,6.7,320.0,0,Essentiel
+Realme,14 Pro 5G 256GB,MediaTek Dimensity 7300 Energy,2025,184.0,8,16,50,5800,6.7,340.0,0,Essentiel
+Realme,14x 5G 128GB,Qualcomm Snapdragon 7s Gen 2,2025,190.0,6,16,48,5500,6.6,270.0,0,Essentiel
+Realme,14x 5G 256GB,Qualcomm Snapdragon 7s Gen 2,2025,190.0,8,16,48,5500,6.6,290.0,0,Essentiel
+Realme,13+ 5G 128GB,MediaTek Dimensity 7200,2024,185.0,8,16,50,5000,6.5,250.0,0,Essentiel
+Realme,13+ 5G 256GB,MediaTek Dimensity 7200,2024,185.0,8,16,50,5000,6.5,270.0,0,Essentiel
+Realme,13 5G 128GB,MediaTek Dimensity 6100+,2024,190.0,6,16,50,5000,6.6,220.0,0,Essentiel
+Realme,13 5G 256GB,MediaTek Dimensity 6100+,2024,190.0,8,16,50,5000,6.6,240.0,0,Essentiel
+Realme,13 Pro 5G 128GB,Qualcomm Snapdragon 7s Gen 2,2024,192.0,8,16,50,5200,6.7,300.0,0,Essentiel
+Realme,13 Pro 5G 256GB,Qualcomm Snapdragon 7s Gen 2,2024,192.0,12,16,50,5200,6.7,320.0,5,Pro
+Realme,13 Pro+ 5G 256GB,Qualcomm Snapdragon 7+ Gen 2,2024,195.0,12,32,50,5500,6.78,360.0,5,Pro
+Realme,13 Pro+ 5G 512GB,Qualcomm Snapdragon 7+ Gen 2,2024,195.0,16,32,50,5500,6.78,380.0,5,Pro
+Realme,P1 Speed 5G 128GB,MediaTek Dimensity 8100,2024,185.0,8,16,64,5100,6.7,250.0,0,Essentiel
+Realme,P1 Speed 5G 256GB,MediaTek Dimensity 8100,2024,185.0,12,16,64,5100,6.7,270.0,5,Pro
+Realme,P2 Pro 5G 256GB,Qualcomm Snapdragon 7+ Gen 3,2024,188.0,12,32,50,5500,6.78,340.0,5,Pro
+Realme,P2 Pro 5G 512GB,Qualcomm Snapdragon 7+ Gen 3,2024,188.0,16,32,50,5500,6.78,360.0,5,Pro
+Realme,P1 5G 128GB,MediaTek Dimensity 6100+,2024,184.0,6,16,50,5000,6.6,200.0,0,Essentiel
+Realme,P1 5G 256GB,MediaTek Dimensity 6100+,2024,184.0,8,16,50,5000,6.6,220.0,0,Essentiel
+Realme,P1 Pro 5G 128GB,Qualcomm Snapdragon 7s Gen 1,2024,190.0,8,16,64,5200,6.7,270.0,0,Essentiel
+Realme,P1 Pro 5G 256GB,Qualcomm Snapdragon 7s Gen 1,2024,190.0,12,16,64,5200,6.7,290.0,5,Pro
+Realme,Narzo 70 Turbo 5G 128GB,MediaTek Dimensity 810,2024,200.0,8,16,50,5000,6.6,240.0,0,Essentiel
+Realme,Narzo 70 Turbo 5G 256GB,MediaTek Dimensity 810,2024,200.0,8,16,50,5000,6.6,260.0,0,Essentiel
+Realme,Narzo N61 128GB,MediaTek Helio G99,2024,195.0,6,16,50,5000,6.5,180.0,0,Essentiel
+Realme,Narzo N63 128GB,MediaTek Helio G88,2024,193.0,6,16,50,5000,6.5,160.0,0,Essentiel
+Realme,Narzo N65 5G 128GB,MediaTek Dimensity 700,2024,198.0,8,16,50,5000,6.6,210.0,0,Essentiel
+Realme,Narzo 70 5G 128GB,MediaTek Dimensity 810,2024,198.0,8,16,50,5200,6.6,230.0,0,Essentiel
+Realme,C75 128GB,MediaTek Helio G85,2024,190.0,6,8,50,5000,6.6,160.0,0,Essentiel
+Realme,C75 256GB,MediaTek Helio G85,2024,190.0,8,8,50,5000,6.6,180.0,0,Essentiel
+Realme,C61 128GB,Unisoc T612,2024,189.0,4,8,50,5000,6.5,130.0,0,Essentiel
+Realme,C67 128GB,MediaTek Helio G88,2024,195.0,6,8,50,5000,6.6,170.0,0,Essentiel
+Realme,C67 256GB,MediaTek Helio G88,2024,195.0,8,8,50,5000,6.6,190.0,0,Essentiel
+Realme,C65 128GB,Qualcomm Snapdragon 680,2024,192.0,6,8,50,5000,6.6,160.0,0,Essentiel
+Realme,C65 256GB,Qualcomm Snapdragon 680,2024,192.0,8,8,50,5000,6.6,180.0,0,Essentiel
+Realme,C63 128GB,MediaTek Helio G85,2024,191.0,6,8,50,5000,6.6,150.0,0,Essentiel
+Realme,C55 128GB,MediaTek Helio G88,2023,189.0,6,8,64,5000,6.72,170.0,0,Essentiel
+Realme,C55 256GB,MediaTek Helio G88,2023,189.0,8,8,64,5000,6.72,190.0,0,Essentiel
+Realme,Note 60x 128GB,MediaTek Dimensity 6100+,2024,198.0,6,16,50,5200,6.6,210.0,0,Essentiel
+Realme,Note 60 128GB,MediaTek Dimensity 810,2024,196.0,6,16,50,5200,6.6,220.0,0,Essentiel
+Realme,Note 60 256GB,MediaTek Dimensity 810,2024,196.0,8,16,50,5200,6.6,240.0,0,Essentiel
+Realme,Note 50 128GB,MediaTek Helio G99,2024,195.0,6,16,50,5000,6.5,170.0,0,Essentiel
+Realme,GT 7 128GB,Qualcomm Snapdragon 8 Gen 2,2024,199.0,8,16,50,5200,6.8,440.0,0,Essentiel
+Realme,GT 7 256GB,Qualcomm Snapdragon 8 Gen 2,2024,199.0,12,16,50,5200,6.8,500.0,5,Pro
+Realme,Neo 7 128GB,MediaTek Dimensity 8200,2024,193.0,8,16,64,5000,6.7,330.0,0,Essentiel
+Realme,Neo 7 256GB,MediaTek Dimensity 8200,2024,193.0,12,16,64,5000,6.7,380.0,5,Pro
+Realme,P2 Pro 5G 128GB,MediaTek Dimensity 9200,2024,195.0,8,16,50,5100,6.7,350.0,0,Essentiel
+Realme,P2 Pro 5G 256GB,MediaTek Dimensity 9200,2024,195.0,12,16,50,5100,6.7,400.0,5,Pro
+Realme,Pad 64GB,MediaTek Helio G80,2021,440.0,4,8,8,7100,10.4,200.0,4,Tablettes
+Realme,Pad 128GB,MediaTek Helio G80,2021,440.0,6,8,8,7100,10.4,230.0,4,Tablettes
+Realme,Pad 2 128GB,MediaTek Helio G99,2023,482.0,6,8,8,8360,11.5,280.0,4,Tablettes
+Realme,Pad 2 256GB,MediaTek Helio G99,2023,482.0,8,8,8,8360,11.5,320.0,4,Tablettes
+Realme,Pad 2 Lite 64GB,MediaTek Helio G85,2023,466.0,4,8,8,7100,10.4,190.0,4,Tablettes
+Realme,Pad 2 Lite 128GB,MediaTek Helio G85,2023,466.0,6,8,8,7100,10.4,210.0,4,Tablettes
+Realme,Pad X 64GB,Qualcomm Snapdragon 695,2022,499.0,4,8,13,8340,11.0,310.0,4,Tablettes
+Realme,Pad X 128GB,Qualcomm Snapdragon 695,2022,499.0,6,8,13,8340,11.0,350.0,4,Tablettes
+Realme,Pad Mini 32GB,Unisoc T616,2022,372.0,3,5,8,6400,8.7,160.0,1,Confort
+Realme,Pad Mini 64GB,Unisoc T616,2022,372.0,4,5,8,6400,8.7,180.0,1,Confort
+Realme,Pad Slim 64GB,MediaTek Helio G80,2022,440.0,4,8,8,7100,10.4,200.0,4,Tablettes
+Realme,Pad Slim 128GB,MediaTek Helio G80,2022,440.0,6,8,8,7100,10.4,220.0,4,Tablettes
+Realme,TechLife Pad Neo 64GB,MediaTek Helio G85,2024,465.0,4,8,8,7200,10.5,210.0,4,Tablettes
+Realme,TechLife Pad Neo 128GB,MediaTek Helio G85,2024,465.0,6,8,8,7200,10.5,230.0,4,Tablettes
+Xiaomi,Xiaomi 15 Pro 256GB,Snapdragon 8 Elite,2024,210.0,12,32,50,6100,6.73,799.0,5,Pro
+Xiaomi,Xiaomi 15 Pro 512GB,Snapdragon 8 Elite,2024,210.0,16,32,50,6100,6.73,899.0,5,Pro
+Xiaomi,Xiaomi 15 Pro 1TB,Snapdragon 8 Elite,2024,210.0,16,32,50,6100,6.73,999.0,5,Pro
+Xiaomi,Xiaomi 15 256GB,Snapdragon 8 Elite,2024,190.0,12,32,50,5400,6.36,699.0,5,Pro
+Xiaomi,Xiaomi 15 512GB,Snapdragon 8 Elite,2024,190.0,16,32,50,5400,6.36,799.0,5,Pro
+Xiaomi,Xiaomi 14T Pro 256GB,Dimensity 9300+,2024,209.0,12,32,50,5000,6.67,634.99,5,Pro
+Xiaomi,Xiaomi 14T Pro 512GB,Dimensity 9300+,2024,209.0,12,32,50,5000,6.67,790.77,5,Pro
+Xiaomi,Xiaomi 14T Pro 1TB,Dimensity 9300+,2024,209.0,12,32,50,5000,6.67,899.0,5,Pro
+Xiaomi,Xiaomi 14T 256GB,Dimensity 8300-Ultra,2024,195.0,12,32,50,5000,6.67,599.0,5,Pro
+Xiaomi,Xiaomi 14T 512GB,Dimensity 8300-Ultra,2024,195.0,12,32,50,5000,6.67,699.0,5,Pro
+Xiaomi,Xiaomi 14 Pro 256GB,Snapdragon 8 Gen 3,2023,206.0,12,32,50,5000,6.73,799.0,5,Pro
+Xiaomi,Xiaomi 14 Pro 512GB,Snapdragon 8 Gen 3,2023,206.0,12,32,50,5000,6.73,899.0,5,Pro
+Xiaomi,Xiaomi 14 256GB,Snapdragon 8 Gen 3,2023,189.0,12,32,50,4610,6.36,699.0,5,Pro
+Xiaomi,Xiaomi 14 512GB,Snapdragon 8 Gen 3,2023,189.0,12,32,50,4610,6.36,799.0,5,Pro
+Xiaomi,Redmi Note 14 Pro+ 5G 128GB,Snapdragon 7s Gen 3,2024,205.0,8,16,200,5110,6.67,374.9,6,Ultra Pro
+Xiaomi,Redmi Note 14 Pro+ 5G 256GB,Snapdragon 7s Gen 3,2024,205.0,12,16,200,5110,6.67,399.0,6,Ultra Pro
+Xiaomi,Redmi Note 14 Pro+ 5G 512GB,Snapdragon 7s Gen 3,2024,205.0,16,16,200,5110,6.67,429.0,6,Ultra Pro
+Xiaomi,Redmi Note 14 Pro 5G 128GB,MediaTek Dimensity 7300-Ultra,2024,195.0,8,16,108,5500,6.67,349.0,3,Expert
+Xiaomi,Redmi Note 14 Pro 5G 256GB,MediaTek Dimensity 7300-Ultra,2024,195.0,12,16,108,5500,6.67,379.0,3,Expert
+Xiaomi,Redmi Note 14 Pro 4G 128GB,Qualcomm Snapdragon 732G,2024,190.0,6,16,108,5000,6.67,299.0,3,Expert
+Xiaomi,Redmi Note 14 Pro 4G 256GB,Qualcomm Snapdragon 732G,2024,190.0,8,16,108,5000,6.67,329.0,3,Expert
+Xiaomi,Redmi Note 14 5G 128GB,MediaTek Dimensity 7025-Ultra,2024,185.0,6,16,50,5000,6.67,279.0,0,Essentiel
+Xiaomi,Redmi Note 14 5G 256GB,MediaTek Dimensity 7025-Ultra,2024,185.0,8,16,50,5000,6.67,309.0,0,Essentiel
+Xiaomi,Redmi Note 14 4G 128GB,Qualcomm Snapdragon 680,2024,180.0,4,16,50,5000,6.67,249.0,0,Essentiel
+Xiaomi,Redmi Note 14 4G 256GB,Qualcomm Snapdragon 680,2024,180.0,6,16,50,5000,6.67,279.0,0,Essentiel
+Xiaomi,Redmi 14C 5G 64GB,MediaTek Dimensity 700,2024,195.0,4,8,50,5000,6.5,199.0,0,Essentiel
+Xiaomi,Redmi 14C 5G 128GB,MediaTek Dimensity 700,2024,195.0,6,8,50,5000,6.5,229.0,0,Essentiel
+Lenovo,Legion Y70 128GB,Snapdragon 8+ Gen 1,2022,209.0,8,16,50,5100,6.67,499.0,0,Essentiel
+Lenovo,Legion Y70 256GB,Snapdragon 8+ Gen 1,2022,209.0,12,16,50,5100,6.67,549.0,5,Pro
+Lenovo,Legion Y70 512GB,Snapdragon 8+ Gen 1,2022,209.0,16,16,50,5100,6.67,599.0,5,Pro
+Lenovo,K14 Plus 64GB,Unisoc T700,2022,198.0,4,8,48,5000,6.5,199.0,0,Essentiel
+Lenovo,K14 Plus 128GB,Unisoc T700,2022,198.0,6,8,48,5000,6.5,229.0,0,Essentiel
+Lenovo,K13 Pro 128GB,Snapdragon 662,2021,200.0,6,16,64,5000,6.8,249.0,0,Essentiel
+Lenovo,K13 32GB,Unisoc SC9863A,2021,190.0,2,5,13,5000,6.52,149.0,1,Confort
+Lenovo,K13 Note 64GB,Snapdragon 460,2021,200.0,4,8,48,5000,6.5,199.0,0,Essentiel
+Lenovo,K10 Plus 64GB,Snapdragon 632,2019,172.0,4,16,13,4050,6.22,179.0,1,Confort
+Lenovo,A6 Note 32GB,Helio P22,2019,172.0,3,5,13,4000,6.09,149.0,1,Confort
+Lenovo,K10 Note 64GB,Snapdragon 710,2019,164.0,4,16,16,4050,6.3,219.0,1,Confort
+Lenovo,K10 Note 128GB,Snapdragon 710,2019,164.0,6,16,16,4050,6.3,249.0,1,Confort
+Lenovo,Z6 Pro 128GB,Snapdragon 855,2019,185.0,6,32,48,4000,6.39,429.0,2,Performance
+Lenovo,Z6 Pro 256GB,Snapdragon 855,2019,185.0,8,32,48,4000,6.39,479.0,2,Performance
+Lenovo,Z5 Pro 64GB,Snapdragon 710,2018,210.0,6,16,16,3350,6.39,299.0,1,Confort
+Motorola,Edge 50 Fusion 128GB,Snapdragon 7 Gen 1,2024,168.0,8,32,50,5000,6.7,499.0,2,Performance
+Motorola,Edge 50 Fusion 256GB,Snapdragon 7 Gen 1,2024,168.0,12,32,50,5000,6.7,549.0,5,Pro
+Motorola,Edge 50 Pro 128GB,Snapdragon 7 Gen 3,2024,186.0,8,50,50,4500,6.7,549.0,2,Performance
+Motorola,Edge 50 Pro 256GB,Snapdragon 7 Gen 3,2024,186.0,12,50,50,4500,6.7,599.0,2,Performance
+Motorola,Razr 128GB,Snapdragon 8+ Gen 1,2023,192.0,8,32,50,3500,6.9,999.0,2,Performance
+Motorola,Razr 256GB,Snapdragon 8+ Gen 1,2023,192.0,12,32,50,3500,6.9,1099.0,5,Pro
+Motorola,G84 5G 128GB,Snapdragon 695,2023,166.0,8,16,50,5000,6.5,299.0,0,Essentiel
+Motorola,G84 5G 256GB,Snapdragon 695,2023,166.0,12,16,50,5000,6.5,349.0,5,Pro
+Motorola,Moto G Stylus 64GB,MediaTek Helio G88,2023,195.0,4,16,50,5000,6.8,199.0,0,Essentiel
+Motorola,Moto G Stylus 128GB,MediaTek Helio G88,2023,195.0,6,16,50,5000,6.8,249.0,0,Essentiel
+Motorola,One Vision 3 128GB,Exynos 9609,2024,180.0,6,25,48,3500,6.3,299.0,2,Performance
+Motorola,One Vision 3 256GB,Exynos 9609,2024,180.0,8,25,48,3500,6.3,349.0,2,Performance
+Motorola,Edge 50 Lite 128GB,Snapdragon 695,2024,170.0,6,32,64,5000,6.7,399.0,2,Performance
+Motorola,Edge 50 Lite 256GB,Snapdragon 695,2024,170.0,8,32,64,5000,6.7,449.0,2,Performance
+Motorola,Moto E40 Plus 64GB,Unisoc T700,2023,198.0,4,8,48,5000,6.5,199.0,0,Essentiel
+Motorola,Moto E40 Plus 128GB,Unisoc T700,2023,198.0,6,8,48,5000,6.5,229.0,0,Essentiel
+Motorola,Moto G Power 64GB,Snapdragon 662,2022,206.0,4,16,50,5000,6.6,249.0,0,Essentiel
+Motorola,Moto G Power 128GB,Snapdragon 662,2022,206.0,6,16,50,5000,6.6,279.0,0,Essentiel
+Motorola,Moto G Play 32GB,MediaTek Helio G25,2022,203.0,3,5,13,5000,6.5,149.0,1,Confort
+Motorola,Moto G Play 64GB,MediaTek Helio G25,2022,203.0,4,5,13,5000,6.5,179.0,1,Confort
+Motorola,Moto G75 5G 128GB,Snapdragon 6 Gen 3,2024,205.0,8,16,50,5000,6.78,320.0,0,Essentiel
+Motorola,Moto G75 5G 256GB,Snapdragon 6 Gen 3,2024,205.0,8,16,50,5000,6.78,370.0,0,Essentiel
+Motorola,Moto S50 128GB,MediaTek Dimensity 8100,2024,190.0,8,32,64,4500,6.7,300.0,2,Performance
+Motorola,Moto S50 256GB,MediaTek Dimensity 8100,2024,190.0,12,32,64,4500,6.7,350.0,5,Pro
+Motorola,Edge 50 Neo 256GB,MediaTek Dimensity 7300,2024,171.0,8,32,50,4310,6.4,400.0,2,Performance
+Motorola,Edge 50 Neo 512GB,MediaTek Dimensity 7300,2024,171.0,12,32,50,4310,6.4,450.0,5,Pro
+Motorola,Moto G55 128GB,MediaTek Dimensity 7025,2024,182.0,8,16,50,5000,6.49,270.0,0,Essentiel
+Motorola,Moto G55 256GB,MediaTek Dimensity 7025,2024,182.0,8,16,50,5000,6.49,320.0,0,Essentiel
+Motorola,Moto G35 128GB,Unisoc T760,2024,188.0,4,16,50,5000,6.72,200.0,0,Essentiel
+Motorola,Moto G35 256GB,Unisoc T760,2024,188.0,8,16,50,5000,6.72,250.0,0,Essentiel
+Motorola,Moto G45 128GB,Snapdragon 6s Gen 3,2024,183.0,6,16,50,5000,6.5,250.0,0,Essentiel
+Motorola,Moto G45 256GB,Snapdragon 6s Gen 3,2024,183.0,8,16,50,5000,6.5,300.0,0,Essentiel
+Motorola,Edge 50 256GB,Snapdragon 7s Gen 2,2024,180.0,8,32,50,4700,6.7,450.0,2,Performance
+Motorola,Edge 50 512GB,Snapdragon 7s Gen 2,2024,180.0,12,32,50,4700,6.7,500.0,5,Pro
+Motorola,Razr 50 Ultra 512GB,Snapdragon 8+ Gen 1,2024,189.0,12,32,50,4000,6.9,1199.0,5,Pro
+Motorola,Razr 50 256GB,Snapdragon 7 Gen 1,2024,188.0,8,32,50,3800,6.9,999.0,2,Performance
+Motorola,Moto G85 128GB,Snapdragon 6s Gen 3,2024,173.0,8,32,50,5000,6.67,320.0,2,Performance
+Motorola,Moto G85 256GB,Snapdragon 6s Gen 3,2024,173.0,12,32,50,5000,6.67,370.0,5,Pro
+Motorola,S50 Neo 256GB,MediaTek Dimensity 7200,2024,170.0,8,32,50,4300,6.5,300.0,2,Performance
+Motorola,S50 Neo 512GB,MediaTek Dimensity 7200,2024,170.0,12,32,50,4300,6.5,350.0,5,Pro
+Motorola,Moto E14 64GB,Unisoc T606,2024,180.0,4,8,13,5000,6.5,150.0,1,Confort
+Motorola,Moto E14 128GB,Unisoc T606,2024,180.0,4,8,13,5000,6.5,180.0,1,Confort
+Motorola,Edge 256GB,Snapdragon 7s Gen 2,2024,174.0,8,32,50,4700,6.7,450.0,2,Performance
+Motorola,Edge 512GB,Snapdragon 7s Gen 2,2024,174.0,12,32,50,4700,6.7,500.0,5,Pro
+Motorola,Moto X50 Ultra 512GB,Snapdragon 8 Gen 3,2024,198.0,12,60,200,5000,6.9,1499.0,6,Ultra Pro
+Motorola,Moto G Stylus 5G 256GB,Snapdragon 6 Gen 1,2024,195.0,6,16,50,5000,6.8,300.0,0,Essentiel
+Motorola,Moto G Stylus 5G 512GB,Snapdragon 6 Gen 1,2024,195.0,8,16,50,5000,6.8,350.0,0,Essentiel
+Motorola,Edge 50 Ultra 512GB,Snapdragon 8 Gen 3,2024,198.0,12,60,200,5000,6.9,1499.0,6,Ultra Pro
+Motorola,Edge 30 Fusion 128GB,Snapdragon 888+ 5G,2022,168.0,8,32,50,4400,6.55,699.0,2,Performance
+Motorola,Edge 30 Fusion 256GB,Snapdragon 888+ 5G,2022,168.0,12,32,50,4400,6.55,749.0,5,Pro
+Motorola,Edge 30 Neo 128GB,Snapdragon 695 5G,2022,155.0,6,32,64,4020,6.28,499.0,2,Performance
+Motorola,Edge 30 Neo 256GB,Snapdragon 695 5G,2022,155.0,8,32,64,4020,6.28,549.0,2,Performance
+Motorola,Moto G82 5G 128GB,Snapdragon 695 5G,2022,173.0,6,16,50,5000,6.6,399.0,0,Essentiel
+Motorola,Moto G82 5G 256GB,Snapdragon 695 5G,2022,173.0,8,16,50,5000,6.6,449.0,0,Essentiel
+Motorola,Moto G62 5G 128GB,Snapdragon 480+ 5G,2022,184.0,4,16,50,5000,6.5,349.0,0,Essentiel
+Motorola,Moto G62 5G 256GB,Snapdragon 480+ 5G,2022,184.0,6,16,50,5000,6.5,399.0,0,Essentiel
+Motorola,Moto G42 128GB,Snapdragon 680 4G,2022,175.0,4,16,50,5000,6.4,299.0,0,Essentiel
+Motorola,Moto G32 128GB,Snapdragon 680 4G,2022,184.0,4,16,50,5000,6.5,279.0,0,Essentiel
+Motorola,Moto E32s 64GB,MediaTek Helio G37,2022,185.0,3,8,16,5000,6.5,199.0,1,Confort
+Motorola,Moto E22i 32GB,MediaTek Helio G37,2022,169.0,2,5,16,4020,6.5,179.0,1,Confort
+Motorola,Moto E22 64GB,MediaTek Helio G37,2022,169.0,4,5,16,4020,6.5,199.0,1,Confort
+Motorola,Moto G22 64GB,MediaTek Helio G37,2022,185.0,4,16,50,5000,6.5,249.0,0,Essentiel
+Huawei,P50,Snapdragon 888 4G,2021,181.0,8,13,50,4100,6.5,699.0,0,Essentiel
+Huawei,P50 Pro,Snapdragon 888 4G,2021,195.0,8,13,50,4360,6.6,899.0,0,Essentiel
+Huawei,P50 Pocket,Snapdragon 888 4G,2021,190.0,8,10,40,4000,6.9,1299.0,0,Essentiel
+Huawei,Mate 40E,Kirin 990E 5G,2021,188.0,8,13,64,4200,6.5,799.0,0,Essentiel
+Huawei,Mate X2,Kirin 9000 5G,2021,295.0,8,16,50,4500,8.0,2699.0,0,Essentiel
+Huawei,Nova 9,Snapdragon 778G 4G,2021,175.0,8,32,50,4300,6.57,499.0,2,Performance
+Huawei,Nova 9 Pro,Snapdragon 778G 4G,2021,186.0,8,32,50,4000,6.72,599.0,2,Performance
+Huawei,P50E,Snapdragon 778G 4G,2022,181.0,8,13,50,4100,6.5,649.0,0,Essentiel
+Huawei,Mate Xs 2,Snapdragon 888 4G,2022,255.0,8,10,50,4600,7.8,2499.0,0,Essentiel
+Huawei,Mate 50,Snapdragon 8+ Gen 1 4G,2022,202.0,8,13,50,4460,6.7,999.0,0,Essentiel
+Huawei,Mate 50 Pro,Snapdragon 8+ Gen 1 4G,2022,205.0,8,13,50,4700,6.74,1199.0,0,Essentiel
+Huawei,Nova 10,Snapdragon 778G 4G,2022,168.0,8,60,50,4000,6.67,499.0,2,Performance
+Huawei,Nova 10 Pro,Snapdragon 778G 4G,2022,191.0,8,60,50,4500,6.78,599.0,2,Performance
+Huawei,Nova 10 SE,Snapdragon 680 4G,2022,184.0,8,16,108,4500,6.67,399.0,3,Expert
+Huawei,P60,Snapdragon 8+ Gen 1 4G,2023,197.0,8,13,48,4815,6.67,999.0,0,Essentiel
+Huawei,P60 Pro,Snapdragon 8+ Gen 1 4G,2023,200.0,8,13,48,4815,6.67,1099.0,0,Essentiel
+Huawei,P60 Art,Snapdragon 8+ Gen 1 4G,2023,206.0,8,13,48,5100,6.73,1299.0,0,Essentiel
+Huawei,Mate X3,Snapdragon 8+ Gen 1 4G,2023,239.0,12,8,50,4800,7.85,2499.0,5,Pro
+Huawei,Mate 60,Kirin 9000S,2023,209.0,12,13,50,4750,6.7,1099.0,5,Pro
+Huawei,Mate 60 Pro,Kirin 9000S,2023,225.0,12,13,50,5000,6.82,1299.0,5,Pro
+Huawei,Mate 60 Pro+,Kirin 9000S,2023,235.0,12,13,50,5200,6.82,1499.0,5,Pro
+Huawei,Nova 11,Snapdragon 778G 4G,2023,168.0,8,60,50,4500,6.7,499.0,2,Performance
+Huawei,Nova 11 Pro,Snapdragon 778G 4G,2023,188.0,8,60,50,4500,6.78,599.0,2,Performance
+Huawei,Nova 11 Ultra,Snapdragon 778G 4G,2023,188.0,12,60,50,4500,6.78,699.0,2,Performance
+Huawei,Pura 70,Kirin 9010,2024,220.0,12,13,50,4900,6.8,999.0,5,Pro
+Huawei,Pura 70 Pro,Kirin 9010,2024,220.0,12,13,50,5050,6.8,1099.0,5,Pro
+Huawei,Pura 70 Pro+,Kirin 9010,2024,220.0,12,13,50,5050,6.8,1199.0,5,Pro
+Huawei,Pura 70 Ultra,Kirin 9010,2024,226.0,16,13,50,5200,6.8,1299.0,5,Pro
+Huawei,Mate 70,Kirin 9010,2024,220.0,12,13,50,4900,6.7,899.0,5,Pro
+Huawei,Mate 70 Pro,Kirin 9010,2024,220.0,12,13,50,5000,6.8,999.0,5,Pro
+Huawei,Mate 70 Pro+,Kirin 9010,2024,220.0,12,13,50,5000,6.8,1099.0,5,Pro
+Huawei,Mate X6,Kirin 9010,2024,241.0,12,8,50,4800,7.93,2499.0,5,Pro
+Huawei,Nova 12,Kirin 9000S,2024,168.0,8,60,50,4500,6.7,499.0,2,Performance
+Huawei,Nova 12 Pro,Kirin 9000S,2024,188.0,8,60,50,4500,6.78,599.0,2,Performance
+Huawei,Mate XT 256GB,Kirin 9010,2024,245.0,12,13,50,5000,7.92,2599.0,5,Pro
+Huawei,Mate XT 512GB,Kirin 9010,2024,245.0,12,13,50,5000,7.92,2799.0,5,Pro
+Huawei,Nova 13 256GB,Kirin 9000S,2024,170.0,8,50,50,4600,6.7,529.0,2,Performance
+Huawei,Nova 13 512GB,Kirin 9000S,2024,170.0,8,50,50,4600,6.7,599.0,2,Performance
+Huawei,Nova 13 Pro 256GB,Kirin 9000S,2024,190.0,8,60,50,4600,6.78,649.0,2,Performance
+Huawei,Nova 13 Pro 512GB,Kirin 9000S,2024,190.0,8,60,50,4600,6.78,729.0,2,Performance
+Nokia,G42 5G 128GB,Snapdragon 480+,2023,193.0,4,8,50,5000,6.56,229.0,0,Essentiel
+Nokia,G20 64GB,MediaTek G35,2021,197.0,4,8,48,5050,6.52,169.0,0,Essentiel
+Nokia,G20 128GB,MediaTek G35,2021,197.0,4,8,48,5050,6.52,189.0,0,Essentiel
+Nokia,C32 64GB,Unisoc SC9863A,2023,199.0,3,8,50,5000,6.52,139.0,0,Essentiel
+Nokia,C32 128GB,Unisoc SC9863A,2023,199.0,4,8,50,5000,6.52,159.0,0,Essentiel
+Nokia,G21 64GB,Unisoc T606,2022,190.0,4,8,50,5050,6.5,169.0,0,Essentiel
+Nokia,G21 128GB,Unisoc T606,2022,190.0,6,8,50,5050,6.5,189.0,0,Essentiel
+Nokia,C22 64GB,Unisoc SC9863A,2023,190.0,2,8,13,5000,6.5,119.0,1,Confort
+Nokia,C22 128GB,Unisoc SC9863A,2023,190.0,3,8,13,5000,6.5,139.0,1,Confort
+Nokia,G400 128GB,Snapdragon 480,2022,198.0,6,16,48,5000,6.58,239.0,0,Essentiel
+Sony,Xperia 1 IV 256GB,Snapdragon 8 Gen 1,2022,185.0,12,12,12,5000,6.5,1599.0,5,Pro
+Sony,Xperia 5 IV 128GB,Snapdragon 8 Gen 1,2022,172.0,8,12,12,5000,6.1,999.0,1,Confort
+Sony,Xperia 10 IV 128GB,Snapdragon 695,2022,161.0,6,8,12,5000,6.0,499.0,1,Confort
+Sony,Xperia 1 V 256GB,Snapdragon 8 Gen 2,2023,187.0,12,12,48,5000,6.5,1699.0,5,Pro
+Sony,Xperia 5 V 128GB,Snapdragon 8 Gen 2,2023,178.0,8,12,48,5000,6.1,1099.0,0,Essentiel
+Sony,Xperia 10 V 128GB,Snapdragon 695,2023,164.0,6,8,48,5000,6.1,599.0,0,Essentiel
+Sony,Xperia 1 VI 256GB,Snapdragon 8 Gen 3,2024,190.0,12,12,48,5000,6.5,1799.0,5,Pro
+Sony,Xperia 5 VI 128GB,Snapdragon 8 Gen 3,2024,180.0,8,12,48,5000,6.1,1199.0,0,Essentiel
+Sony,Xperia 10 VI 128GB,Snapdragon 7 Gen 1,2024,167.0,6,8,48,5000,6.1,699.0,0,Essentiel
+Huawei,MatePad Pro 12.2 512GB,Kirin 9000S,2024,508.0,12,16,13,10100,12.2,999.0,4,Tablettes
+Huawei,MatePad Pro 13.2 512GB,Kirin 9000S,2024,580.0,12,16,13,10100,13.2,877.0,4,Tablettes
+Google,Pixel 3a 64GB,Snapdragon 670,2019,147.0,4,8,12,3000,5.6,399.0,1,Confort
+Google,Pixel 3a XL 64GB,Snapdragon 670,2019,167.0,4,8,12,3700,6.0,479.0,1,Confort
+Google,Pixel 4 64GB,Snapdragon 855,2019,162.0,6,8,12,2800,5.7,799.0,1,Confort
+Google,Pixel 4 XL 64GB,Snapdragon 855,2019,193.0,6,8,12,3700,6.3,899.0,1,Confort
+Google,Pixel 4a 128GB,Snapdragon 730G,2020,143.0,6,8,12,3140,5.8,349.0,1,Confort
+Google,Pixel 4a 5G 128GB,Snapdragon 765G,2020,168.0,6,8,12,3885,6.2,499.0,1,Confort
+Google,Pixel 5 128GB,Snapdragon 765G,2020,151.0,8,8,12,4080,6.0,699.0,1,Confort
+Google,Pixel 5a 128GB,Snapdragon 765G,2021,183.0,6,8,12,4680,6.34,449.0,1,Confort
+Google,Pixel 6 128GB,Google Tensor,2021,207.0,8,8,50,4614,6.4,699.0,0,Essentiel
+Google,Pixel 6 Pro 256GB,Google Tensor,2021,210.0,12,11,50,5003,6.71,899.0,5,Pro
+Google,Pixel 6a 128GB,Google Tensor,2022,178.0,6,8,12,4410,6.1,449.0,1,Confort
+Google,Pixel 7 128GB,Google Tensor G2,2022,197.0,8,10,50,4355,6.3,599.0,0,Essentiel
+Google,Pixel 7 Pro 256GB,Google Tensor G2,2022,212.0,12,10,50,5000,6.7,899.0,5,Pro
+Google,Pixel 7a 128GB,Google Tensor G2,2023,193.0,8,10,64,4385,6.1,499.0,0,Essentiel
+Google,Pixel 8 128GB,Google Tensor G3,2023,187.0,8,10,50,4575,6.2,699.0,0,Essentiel
+Google,Pixel 8 Pro 256GB,Google Tensor G3,2023,213.0,12,10,50,5050,6.7,999.0,5,Pro
+Google,Pixel 8a 128GB,Google Tensor G3,2024,194.0,8,10,64,4385,6.1,549.0,0,Essentiel
+Google,Pixel 9 128GB,Google Tensor G4,2024,195.0,8,10,50,4600,6.3,799.0,0,Essentiel
+Google,Pixel 9 Pro 256GB,Google Tensor G4,2024,216.0,12,10,50,5050,6.7,1099.0,5,Pro
+Google,Pixel 9 Pro XL 512GB,Google Tensor G4,2024,222.0,16,10,50,5250,6.8,1299.0,5,Pro
+Google,Pixel 9 Pro Fold 512GB,Google Tensor G4,2024,250.0,16,10,50,5500,7.6,1799.0,5,Pro
+Tecno,Spark Go 1S 64GB,MediaTek Helio A22,2024,190.0,4,8,13,5000,6.6,129.0,1,Confort
+Tecno,Megapad 11 256GB,MediaTek G99,2024,450.0,8,13,50,8000,11.0,349.0,4,Tablettes
+Tecno,Pop 9 4G 64GB,Unisoc SC9863A,2024,195.0,3,5,8,5000,6.52,99.0,1,Confort
+Tecno,Megapad 128GB,MediaTek Helio G80,2024,420.0,6,12,50,7500,10.9,299.0,4,Tablettes
+Tecno,Camon 30S 256GB,MediaTek Dimensity 810,2024,198.0,8,32,50,5200,6.8,499.0,2,Performance
+Tecno,Spark 30C 5G 128GB,MediaTek Dimensity 6100+,2024,200.0,6,16,50,5000,6.6,199.0,0,Essentiel
+Tecno,Spark 30 5G 128GB,MediaTek Dimensity 6020,2024,195.0,6,16,50,5000,6.6,229.0,0,Essentiel
+Tecno,Pop 9 64GB,Unisoc SC9832E,2024,190.0,3,5,8,5000,6.52,89.0,1,Confort
+Tecno,Spark 30 Pro 256GB,MediaTek Helio G99,2024,205.0,8,32,50,5200,6.8,269.0,2,Performance
+Tecno,Spark 30 128GB,MediaTek Helio G85,2024,192.0,4,16,50,5000,6.6,179.0,0,Essentiel
+Tecno,Phantom V Fold2 512GB,MediaTek Dimensity 9200+,2024,280.0,12,32,64,5500,7.85,1799.0,5,Pro
+Tecno,Phantom V Flip2 256GB,MediaTek Dimensity 8050,2024,195.0,8,32,50,4300,6.9,999.0,2,Performance
+Tecno,Pova 6 Neo 5G 256GB,MediaTek Dimensity 810,2024,225.0,8,16,50,6000,6.8,349.0,0,Essentiel
+Tecno,Spark 30C 128GB,MediaTek Helio G85,2024,190.0,4,16,50,5000,6.6,149.0,0,Essentiel
+Tecno,Spark Go 1 64GB,Unisoc SC9863A,2024,195.0,3,5,8,5000,6.52,99.0,1,Confort
+Tecno,Camon 30S Pro 512GB,MediaTek Dimensity 9200,2024,202.0,12,50,108,5200,6.9,1099.0,3,Expert
+Tecno,Spark 20P 128GB,MediaTek Helio G85,2024,195.0,4,16,50,5000,6.6,179.0,0,Essentiel
+Tecno,Spark 20 Pro 5G 256GB,MediaTek Dimensity 810,2024,210.0,8,32,50,5200,6.8,329.0,2,Performance
+Tecno,Pova 6 Neo 256GB,MediaTek Helio G99,2024,230.0,8,16,50,6000,6.8,299.0,0,Essentiel
+Tecno,Camon 30 Premier 512GB,MediaTek Dimensity 9200,2024,210.0,12,50,108,5200,6.9,1199.0,3,Expert
+Tecno,Camon 30 Pro 512GB,MediaTek Dimensity 8200,2024,205.0,12,50,64,5200,6.8,899.0,2,Performance
+Tecno,Camon 30 5G 256GB,MediaTek Dimensity 810,2024,198.0,8,32,50,5000,6.7,499.0,2,Performance
+Tecno,Camon 30 128GB,MediaTek Helio G99,2024,195.0,6,32,50,5000,6.7,349.0,2,Performance
+Tecno,Pova 6 Pro 512GB,MediaTek Dimensity 8100,2024,230.0,12,32,64,6000,6.9,1099.0,5,Pro
+Tecno,Spark 20 Pro+ 256GB,MediaTek Helio G99,2024,210.0,8,32,50,5200,6.8,269.0,2,Performance
+Tecno,Spark 20 Pro 128GB,MediaTek Helio G85,2024,195.0,6,16,50,5000,6.6,199.0,0,Essentiel
+Tecno,Spark 20 128GB,MediaTek Helio G85,2024,192.0,4,16,50,5000,6.6,179.0,0,Essentiel
+Tecno,Spark 20C 128GB,MediaTek Helio G85,2024,190.0,4,16,50,5000,6.6,149.0,0,Essentiel
+Tecno,Spark Go 2024 64GB,Unisoc SC9863A,2024,195.0,3,5,8,5000,6.52,99.0,1,Confort
+Tecno,Pop 8 64GB,Unisoc SC9832E,2024,195.0,3,5,8,5000,6.52,89.0,1,Confort
+Tecno,Camon 20s Pro 5G 512GB,MediaTek Dimensity 9200,2024,202.0,12,50,108,5200,6.9,1099.0,3,Expert
+Tecno,Camon 20s Pro 256GB,MediaTek Dimensity 810,2024,202.0,12,50,108,5200,6.9,899.0,3,Expert
+Tecno,Camon 20s 256GB,MediaTek Helio G99,2024,200.0,8,32,50,5000,6.7,449.0,2,Performance
+Tecno,Camon 20 Premier 512GB,MediaTek Dimensity 8200,2024,205.0,12,50,108,5200,6.8,1049.0,3,Expert
+Tecno,Camon 20 Pro 5G 256GB,MediaTek Dimensity 810,2024,200.0,8,32,50,5000,6.7,499.0,2,Performance
+Tecno,Camon 20 Pro 128GB,MediaTek Helio G99,2024,198.0,6,32,50,5000,6.7,349.0,2,Performance
+Tecno,Camon 20 128GB,MediaTek Helio G99,2024,195.0,6,32,50,5000,6.7,349.0,2,Performance
+Tecno,Pova 5G 512GB,MediaTek Dimensity 900,2024,240.0,8,32,50,6000,6.9,699.0,2,Performance
+Tecno,Pova 5 256GB,MediaTek Helio G99,2024,230.0,8,16,50,6000,6.8,329.0,0,Essentiel
+Infinix,Xpad,MediaTek Helio G99,2024,450.0,6,8,13,7000,10.1,299.0,4,Tablettes
+Infinix,Xpad 5G,MediaTek Dimensity 810,2024,470.0,8,16,50,8000,10.4,399.0,4,Tablettes
+Infinix,Xpad Lite,Unisoc T606,2024,420.0,4,5,8,6000,9.7,219.0,1,Confort
+Infinix,Xpad Pro,MediaTek Dimensity 9200,2024,480.0,12,32,50,9000,11.0,549.0,4,Tablettes
+Infinix,Hot 50,MediaTek Helio G85,2024,192.0,6,8,50,5000,6.78,219.0,0,Essentiel
+Infinix,Hot 50i,Unisoc T606,2024,190.0,4,8,50,5000,6.6,179.0,0,Essentiel
+Infinix,Hot 50 5G,MediaTek Dimensity 810,2024,195.0,8,16,50,5200,6.78,289.0,0,Essentiel
+Infinix,Hot 50 Pro,MediaTek Helio G99,2024,194.0,8,16,50,5000,6.8,269.0,0,Essentiel
+Infinix,Hot 50 Pro+,MediaTek Dimensity 9200,2024,196.0,12,32,108,5300,6.9,379.0,3,Expert
+Infinix,GT 20 Pro,MediaTek Dimensity 8200,2024,198.0,12,32,108,5500,6.9,449.0,3,Expert
+Infinix,Note 40X 5G,MediaTek Dimensity 7200,2024,198.0,8,32,108,5200,6.8,349.0,3,Expert
+Infinix,Note 40S,MediaTek Helio G99,2024,196.0,8,32,50,5000,6.78,279.0,2,Performance
+Infinix,Note 40 5G,MediaTek Dimensity 8100,2024,195.0,8,32,108,5200,6.8,319.0,3,Expert
+Infinix,Note 40 Pro 5G,MediaTek Dimensity 9000,2024,195.0,12,32,108,5300,6.8,399.0,3,Expert
+Infinix,Note 40 Racing Edition,MediaTek Dimensity 9200,2024,196.0,12,32,108,5500,6.9,449.0,3,Expert
+Infinix,Hot 40,MediaTek Helio G88,2023,196.0,8,32,50,5000,6.78,199.0,2,Performance
+Infinix,Hot 40i,Unisoc T606,2023,195.0,4,8,13,5000,6.6,159.0,1,Confort
+Infinix,Hot 40 Pro,MediaTek Helio G99,2023,195.0,8,32,108,5000,6.78,229.0,3,Expert
+Infinix,Zero 40,MediaTek Dimensity 8200,2024,195.0,12,50,108,5000,6.78,349.0,3,Expert
+Infinix,Zero 40 5G,MediaTek Dimensity 8200,2024,195.0,12,50,108,5000,6.78,379.0,3,Expert
+Infinix,Zero Flip,Qualcomm Snapdragon 778G,2024,190.0,8,32,108,4500,6.7,399.0,3,Expert
+Infinix,Note 40,MediaTek Helio G99,2024,190.0,8,32,108,5000,6.78,279.0,3,Expert
+Infinix,Note 40 Pro,MediaTek Dimensity 8100,2024,190.0,12,32,108,5000,6.78,329.0,3,Expert
+Infinix,Hot 30 128GB,MediaTek Helio G88,2023,196.0,8,8,50,5000,6.78,199.0,0,Essentiel
+Infinix,Hot 30i 128GB,Unisoc T606,2023,191.0,4,8,13,5000,6.6,159.0,1,Confort
+Infinix,Hot 30i NFC 128GB,Unisoc T606,2023,191.0,4,8,13,5000,6.6,159.0,1,Confort
+Infinix,Hot 30 Play 128GB,MediaTek Helio G37,2023,205.0,4,8,16,6000,6.82,179.0,1,Confort
+Infinix,Hot 30 5G 128GB,MediaTek Dimensity 810,2023,202.0,8,8,50,5000,6.78,239.0,0,Essentiel
+Infinix,Zero 30 256GB,MediaTek Dimensity 8020,2023,185.0,8,50,108,5000,6.78,349.0,3,Expert
+Infinix,Zero 30 5G 256GB,MediaTek Dimensity 8020,2023,185.0,12,50,108,5000,6.78,379.0,3,Expert
+Infinix,GT 10 Pro 256GB,MediaTek Dimensity 8050,2023,187.0,8,32,108,5000,6.67,399.0,3,Expert
+Infinix,Hot 12 128GB,MediaTek Helio G85,2022,195.0,6,8,13,5000,6.82,179.0,1,Confort
+Infinix,Hot 12 Play 128GB,Unisoc T610,2022,209.0,4,8,13,6000,6.82,159.0,1,Confort
+Infinix,Hot 12 Pro 128GB,Unisoc T616,2022,191.0,8,8,50,5000,6.6,199.0,0,Essentiel
+Infinix,Hot 12i 64GB,MediaTek Helio A22,2022,190.0,4,8,13,5000,6.6,139.0,1,Confort
+Infinix,Hot 20 128GB,MediaTek Helio G85,2022,198.0,6,8,50,5000,6.82,199.0,0,Essentiel
+Infinix,Hot 20 Play 128GB,MediaTek Helio G37,2022,209.0,4,8,13,6000,6.82,159.0,1,Confort
+Infinix,Hot 20s 128GB,MediaTek Helio G96,2022,202.0,8,8,50,5000,6.78,219.0,0,Essentiel
+Infinix,Hot 20 5G 128GB,MediaTek Dimensity 810,2022,204.0,6,8,50,5000,6.6,239.0,0,Essentiel
+Infinix,Hot 20i 64GB,MediaTek Helio G25,2022,195.0,4,8,13,5000,6.6,139.0,1,Confort
+Infinix,Hot 10T 128GB,MediaTek Helio G70,2021,205.0,4,8,48,5000,6.82,149.0,0,Essentiel
+Infinix,Hot 10S 128GB,MediaTek Helio G85,2021,211.0,6,8,48,6000,6.82,169.0,0,Essentiel
+Infinix,Hot 10S NFC 128GB,MediaTek Helio G85,2021,211.0,6,8,48,6000,6.82,179.0,0,Essentiel
+Infinix,Hot 10 Lite 64GB,MediaTek Helio A25,2020,195.0,3,8,13,5000,6.6,109.0,1,Confort
+Infinix,Hot 10 Play 64GB,MediaTek Helio G25,2021,207.0,4,8,13,6000,6.82,139.0,1,Confort
+Infinix,Hot 11 128GB,MediaTek Helio G70,2021,201.0,4,8,13,5200,6.6,159.0,1,Confort
+Infinix,Hot 11 Play 128GB,MediaTek Helio G35,2021,209.0,4,8,13,6000,6.82,169.0,1,Confort
+Infinix,Hot 11s 128GB,MediaTek Helio G88,2021,205.0,6,8,50,5000,6.78,189.0,0,Essentiel
+Infinix,Smart HD 32GB,MediaTek Helio A20,2020,195.0,2,5,8,5000,6.1,79.0,1,Confort
+Infinix,Note 8i 128GB,MediaTek Helio G80,2020,210.0,6,8,48,5200,6.78,199.0,0,Essentiel
+Infinix,Note 8 128GB,MediaTek Helio G80,2020,210.0,6,16,64,5200,6.95,229.0,0,Essentiel
+Infinix,Zero 8i 128GB,MediaTek Helio G90T,2020,210.0,8,16,48,4500,6.85,249.0,0,Essentiel
+Infinix,Hot 10 128GB,MediaTek Helio G70,2020,204.0,4,8,16,5200,6.78,159.0,1,Confort
+Infinix,Zero 8 128GB,MediaTek Helio G90T,2020,205.0,8,48,64,4500,6.85,279.0,2,Performance
+Infinix,Smart 5 64GB,MediaTek Helio A20,2020,195.0,3,8,13,5000,6.6,99.0,1,Confort
+Honor,9X Lite,Kirin 710F,2020,175.0,4,8,48,3750,6.5,219.0,0,Essentiel
+Honor,30,Kirin 985 5G,2020,185.0,8,32,40,4000,6.53,449.0,2,Performance
+Honor,30 Pro,Kirin 990 5G,2020,190.0,8,32,50,4000,6.57,599.0,2,Performance
+Honor,30 Pro+,Kirin 990 5G,2020,192.0,12,32,50,4000,6.57,699.0,5,Pro
+Honor,30S,Kirin 820 5G,2020,190.0,6,16,64,4000,6.5,349.0,0,Essentiel
+Honor,X10,Kirin 820 5G,2020,203.0,6,16,40,4300,6.63,319.0,0,Essentiel
+Honor,X10 Max,MediaTek Dimensity 800,2020,227.0,8,8,48,5000,7.09,379.0,0,Essentiel
+Honor,Play 4,MediaTek Dimensity 800,2020,213.0,6,16,64,4300,6.81,349.0,0,Essentiel
+Honor,Play 4 Pro,Kirin 990 5G,2020,213.0,8,32,40,4200,6.57,549.0,2,Performance
+Honor,10X Lite,Kirin 710A,2020,206.0,4,8,48,5000,6.67,229.0,0,Essentiel
+Honor,V40,MediaTek Dimensity 1000+,2021,189.0,8,16,50,4000,6.72,599.0,0,Essentiel
+Honor,50,Qualcomm Snapdragon 778G,2021,175.0,8,32,108,4300,6.57,549.0,3,Expert
+Honor,50 Pro,Qualcomm Snapdragon 778G,2021,187.0,8,32,108,4000,6.72,649.0,3,Expert
+Honor,50 SE,MediaTek Dimensity 900,2021,191.0,8,16,108,4000,6.78,449.0,3,Expert
+Honor,X20,MediaTek Dimensity 900,2021,192.0,6,16,64,4300,6.67,379.0,0,Essentiel
+Honor,X20 SE,MediaTek Dimensity 700,2021,179.0,6,16,64,4000,6.6,299.0,0,Essentiel
+Honor,Play 5,MediaTek Dimensity 800U,2021,179.0,8,16,64,3800,6.53,319.0,0,Essentiel
+Honor,Play 5T,Unisoc T610,2021,191.0,6,8,13,5000,6.5,219.0,1,Confort
+Honor,Magic3,Qualcomm Snapdragon 888,2021,202.0,8,13,50,4600,6.76,899.0,0,Essentiel
+Honor,Magic3 Pro,Qualcomm Snapdragon 888+,2021,213.0,8,13,50,4600,6.76,1099.0,0,Essentiel
+Honor,Magic3 Pro+,Qualcomm Snapdragon 888+,2021,236.0,12,13,50,4600,6.76,1299.0,5,Pro
+Honor,60,Qualcomm Snapdragon 778G,2021,179.0,8,32,108,4800,6.67,549.0,3,Expert
+Honor,60 Pro,Qualcomm Snapdragon 778G+,2021,192.0,8,50,108,4800,6.78,649.0,3,Expert
+Honor,60 SE,MediaTek Dimensity 900,2021,191.0,8,16,64,4300,6.67,449.0,0,Essentiel
+Honor,X30,Qualcomm Snapdragon 695,2021,189.0,6,16,48,4800,6.81,379.0,0,Essentiel
+Honor,X30i,MediaTek Dimensity 810,2021,175.0,6,16,48,4000,6.7,299.0,0,Essentiel
+Honor,X30 Max,MediaTek Dimensity 900,2021,228.0,8,8,64,5000,7.09,499.0,0,Essentiel
+Honor,Play 6,MediaTek MT6762G Helio G25,2022,190.0,6,5,13,5000,6.52,179.0,1,Confort
+Honor,Play 6T,MediaTek Dimensity 700,2022,198.0,6,5,13,5000,6.74,229.0,1,Confort
+Honor,Magic4,Qualcomm Snapdragon 8 Gen 1,2022,199.0,8,12,50,4800,6.81,899.0,0,Essentiel
+Honor,Magic4 Pro,Qualcomm Snapdragon 8 Gen 1,2022,215.0,8,12,50,4600,6.81,1099.0,0,Essentiel
+Honor,Magic4 Ultimate,Qualcomm Snapdragon 8 Gen 1,2022,242.0,12,12,50,4600,6.81,1299.0,5,Pro
+Honor,Magic V,Qualcomm Snapdragon 8 Gen 1,2022,288.0,12,42,50,4750,7.9,1799.0,5,Pro
+Honor,70,Qualcomm Snapdragon 778G+,2022,178.0,8,32,54,4800,6.67,549.0,2,Performance
+Honor,70 Pro,MediaTek Dimensity 8000,2022,192.0,8,50,54,4500,6.78,699.0,2,Performance
+Honor,70 Pro+,MediaTek Dimensity 9000,2022,209.0,12,50,54,4500,6.78,799.0,2,Performance
+Honor,X40,Qualcomm Snapdragon 695,2022,172.0,6,8,50,5100,6.67,299.0,0,Essentiel
+Honor,X40i,MediaTek Dimensity 700,2022,175.0,6,8,50,4000,6.7,279.0,0,Essentiel
+Honor,Play 7,MediaTek Helio G37,2023,196.0,4,5,13,5200,6.74,159.0,1,Confort
+Honor,Play 7T,MediaTek Dimensity 6020,2023,199.0,6,5,13,5200,6.74,199.0,1,Confort
+Honor,Magic5,Qualcomm Snapdragon 8 Gen 2,2023,204.0,8,12,50,5100,6.81,999.0,0,Essentiel
+Honor,Magic5 Pro,Qualcomm Snapdragon 8 Gen 2,2023,219.0,12,12,50,5100,6.81,1199.0,5,Pro
+Honor,Magic5 Ultimate,Qualcomm Snapdragon 8 Gen 2,2023,234.0,16,12,50,5450,6.81,1399.0,5,Pro
+Honor,Magic Vs,Qualcomm Snapdragon 8+ Gen 1,2023,267.0,12,16,50,5000,7.9,1699.0,5,Pro
+Honor,80,Qualcomm Snapdragon 782G,2022,180.0,8,32,160,4800,6.67,549.0,3,Expert
+Honor,80 Pro,Qualcomm Snapdragon 8+ Gen 1,2022,193.0,12,50,160,4800,6.78,799.0,6,Ultra Pro
+Honor,80 SE,MediaTek Dimensity 900,2022,175.0,8,32,64,4600,6.67,399.0,2,Performance
+Honor,X50,Qualcomm Snapdragon 6 Gen 1,2023,185.0,6,8,108,5800,6.78,299.0,3,Expert
+Honor,X50i,MediaTek Dimensity 6020,2023,179.0,6,8,100,4500,6.7,249.0,3,Expert
+Honor,Play 8,MediaTek Helio G36,2023,191.0,4,5,13,5000,6.52,149.0,1,Confort
+Honor,Play 8T,MediaTek Dimensity 6100+,2023,195.0,6,5,50,5200,6.74,189.0,0,Essentiel
+Honor,Magic6,Qualcomm Snapdragon 8 Gen 3,2024,203.0,8,12,50,5200,6.81,1099.0,0,Essentiel
+Honor,Magic6 Pro,Qualcomm Snapdragon 8 Gen 3,2024,219.0,12,12,50,5500,6.81,1299.0,5,Pro
+Honor,Magic6 Ultimate,Qualcomm Snapdragon 8 Gen 3,2024,234.0,16,12,50,5550,6.81,1499.0,5,Pro
+Honor,Magic V2,Qualcomm Snapdragon 8 Gen 2,2024,231.0,12,16,50,5000,7.92,1899.0,5,Pro
+Honor,90,Qualcomm Snapdragon 7 Gen 1,2023,183.0,12,50,200,5000,6.7,599.0,6,Ultra Pro
+Honor,90 Pro,Qualcomm Snapdragon 8+ Gen 1,2023,192.0,12,50,200,5000,6.78,699.0,6,Ultra Pro
+Honor,90 SE,MediaTek Dimensity 900,2023,175.0,8,32,64,4600,6.67,399.0,2,Performance
+Honor,X60,Qualcomm Snapdragon 6 Gen 1,2023,185.0,6,8,108,5800,6.78,299.0,3,Expert
+Honor,X60i,MediaTek Dimensity 6020,2023,179.0,6,8,100,4500,6.7,249.0,3,Expert
+Honor,Play 9,MediaTek Helio G36,2023,191.0,4,5,13,5000,6.52,149.0,1,Confort
+Honor,Play 9T,MediaTek Dimensity 6100+,2023,195.0,6,5,50,5200,6.74,189.0,0,Essentiel
+Honor,Magic7,Qualcomm Snapdragon 8 Gen 3,2024,203.0,8,12,50,5200,6.81,1099.0,0,Essentiel
+Honor,Magic7 Pro,Qualcomm Snapdragon 8 Gen 3,2024,219.0,12,12,50,5500,6.81,1299.0,5,Pro
+Honor,Magic7 Ultimate,Qualcomm Snapdragon 8 Gen 3,2024,234.0,16,12,50,5550,6.81,1499.0,5,Pro
+Honor,Magic V3,Qualcomm Snapdragon 8 Gen 2,2024,231.0,12,16,50,5000,7.92,1899.0,5,Pro
+Honor,Pad 6,Qualcomm Snapdragon 662,2020,460.0,4,2,5,5100,10.1,199.0,1,Confort
+Honor,Pad X6,MediaTek MT8768T,2020,460.0,3,2,5,5100,9.7,159.0,1,Confort
+Honor,Pad 7,MediaTek Helio G80,2021,460.0,4,2,5,5100,10.1,229.0,1,Confort
+Honor,Tablet V7,MediaTek Dimensity 800,2021,480.0,6,8,13,7250,10.4,399.0,4,Tablettes
+Honor,Tablet V7 Pro,MediaTek Dimensity 1300T,2021,485.0,8,8,13,7250,11.0,499.0,4,Tablettes
+Honor,Pad 8,Qualcomm Snapdragon 680,2022,520.0,6,5,5,7250,12.0,299.0,4,Tablettes
+Honor,Pad X8,MediaTek Helio G80,2022,460.0,4,2,5,5100,10.1,189.0,1,Confort
+Honor,Pad X8 Lite,MediaTek MT8786,2022,450.0,3,2,5,5000,9.7,149.0,1,Confort
+Honor,Pad V8,MediaTek Dimensity 8020,2023,510.0,6,5,13,7250,11.0,449.0,4,Tablettes
+Honor,Pad V8 Pro,MediaTek Dimensity 9000,2023,530.0,8,8,13,8500,12.1,649.0,4,Tablettes
+Honor,Pad 9,Qualcomm Snapdragon 6 Gen 1,2024,550.0,8,8,13,8300,12.1,399.0,4,Tablettes
+Honor,Pad 9 Pro,MediaTek Dimensity 8100,2024,560.0,12,8,13,9000,12.6,499.0,4,Tablettes
+Honor,Pad X9,Qualcomm Snapdragon 685,2023,495.0,6,5,8,7250,11.5,299.0,4,Tablettes
+Honor,Pad X8 Pro,MediaTek Helio G80,2023,460.0,4,2,5,5100,10.1,189.0,1,Confort
+Honor,MagicPad 13,Qualcomm Snapdragon 8+ Gen 1,2023,590.0,12,8,13,10000,13.0,799.0,4,Tablettes
+Honor,MagicPad 2,Qualcomm Snapdragon 8 Gen 2,2024,580.0,16,12,16,10500,13.2,899.0,4,Tablettes
+Honor,Pad X8a,MediaTek MT8786,2023,450.0,4,2,5,5000,9.7,149.0,1,Confort
+Honor,Pad X8a Kids Edition,MediaTek MT8786,2023,460.0,3,2,5,5100,9.7,129.0,1,Confort
+Honor,Pad X9 Pro,Qualcomm Snapdragon 7s Gen 2,2024,505.0,8,8,13,8000,11.6,399.0,4,Tablettes
+Honor,Pad V9,MediaTek Dimensity 9000,2024,530.0,8,8,13,8500,12.1,649.0,4,Tablettes
+Honor,Pad GT Pro,Qualcomm Snapdragon 8 Gen 3,2024,610.0,12,12,16,10500,13.5,999.0,4,Tablettes
+Honor,Pad X10,Qualcomm Snapdragon 685,2024,475.0,6,5,8,8850,12.1,399.0,4,Tablettes
+Honor,Pad X10 Pro,Qualcomm Snapdragon 7s Gen 2,2024,485.0,8,8,13,9000,12.6,499.0,4,Tablettes
+Honor,MagicPad 3,Qualcomm Snapdragon 8 Gen 3,2024,590.0,12,12,16,10500,13.0,799.0,4,Tablettes
+Honor,Pad V10,MediaTek Dimensity 9000,2024,530.0,8,8,13,8500,12.1,649.0,4,Tablettes
+POCO,F2 Pro 128GB,Snapdragon 865,2020,219.0,6,20,64,4700,6.67,499.0,0,Essentiel
+POCO,M2 Pro 64GB,Snapdragon 720G,2020,209.0,4,16,48,5000,6.67,199.0,0,Essentiel
+POCO,X3 NFC 128GB,Snapdragon 732G,2020,215.0,6,20,64,5160,6.67,229.0,0,Essentiel
+POCO,M3 64GB,Snapdragon 662,2020,198.0,4,8,48,6000,6.53,149.0,0,Essentiel
+POCO,F3 128GB,Snapdragon 870,2021,196.0,6,20,48,4520,6.67,349.0,0,Essentiel
+POCO,X3 Pro 128GB,Snapdragon 860,2021,215.0,6,20,48,5160,6.67,249.0,0,Essentiel
+POCO,M3 Pro 5G 64GB,MediaTek Dimensity 700,2021,190.0,4,8,48,5000,6.5,199.0,0,Essentiel
+POCO,F3 GT 128GB,MediaTek Dimensity 1200,2021,205.0,6,16,64,5065,6.67,399.0,0,Essentiel
+POCO,X3 GT 128GB,MediaTek Dimensity 1100,2021,193.0,6,16,64,5000,6.6,279.0,0,Essentiel
+POCO,M4 Pro 5G 128GB,MediaTek Dimensity 810,2021,195.0,4,16,50,5000,6.6,219.0,0,Essentiel
+POCO,F4 128GB,Snapdragon 870,2022,195.0,6,20,64,4500,6.67,349.0,0,Essentiel
+POCO,F4 GT 128GB,Snapdragon 8 Gen 1,2022,210.0,8,20,64,4700,6.67,499.0,0,Essentiel
+POCO,X4 Pro 5G 128GB,Snapdragon 695,2022,205.0,6,16,108,5000,6.67,299.0,3,Expert
+POCO,M4 Pro 128GB,MediaTek Helio G96,2022,179.0,6,16,64,5000,6.43,219.0,0,Essentiel
+POCO,M5 128GB,MediaTek Helio G99,2022,201.0,4,5,50,5000,6.58,199.0,0,Essentiel
+POCO,M5s 128GB,MediaTek Helio G95,2022,178.8,4,13,64,5000,6.43,229.0,0,Essentiel
+POCO,F5 128GB,Snapdragon 7+ Gen 2,2023,181.0,6,16,64,5000,6.67,349.0,0,Essentiel
+POCO,F5 Pro 256GB,Snapdragon 8+ Gen 1,2023,204.0,8,20,64,5160,6.67,499.0,0,Essentiel
+POCO,X5 128GB,Snapdragon 695,2023,189.0,6,13,48,5000,6.67,279.0,0,Essentiel
+POCO,X5 Pro 128GB,Snapdragon 778G,2023,181.0,6,16,108,5000,6.67,329.0,3,Expert
+POCO,M6 64GB,MediaTek Helio G88,2023,199.0,4,8,50,5000,6.58,199.0,0,Essentiel
+POCO,M6 Pro 128GB,Snapdragon 4 Gen 1,2023,202.0,6,8,50,5000,6.79,219.0,0,Essentiel
+POCO,X6 128GB,MediaTek Dimensity 8100,2024,193.0,6,16,64,5000,6.67,349.0,0,Essentiel
+POCO,X6 Pro 256GB,MediaTek Dimensity 8300,2024,205.0,8,20,108,5000,6.67,399.0,3,Expert
+POCO,F6 128GB,Snapdragon 8 Gen 2,2024,190.0,6,20,64,5000,6.67,449.0,0,Essentiel
+POCO,F6 Pro 256GB,Snapdragon 8+ Gen 2,2024,210.0,8,20,108,5160,6.67,549.0,3,Expert
+POCO,C65 64GB,MediaTek Helio G85,2024,190.0,4,5,50,5000,6.5,149.0,0,Essentiel
+POCO,X7 128GB,MediaTek Dimensity 8200,2025,195.0,6,16,64,5000,6.67,329.0,0,Essentiel
+POCO,X7 Pro 256GB,MediaTek Dimensity 8400,2025,207.0,8,20,108,6000,6.67,399.0,3,Expert
+POCO,M7 5G 128GB,MediaTek Dimensity 7025,2024,198.0,6,8,50,5110,6.67,229.0,0,Essentiel
+Poco,Pad 5G 128GB,Snapdragon 7s Gen 2,2024,571.0,8,8,8,10000,12.1,280.0,4,Tablettes
+Poco,Pad 5G 256GB,Snapdragon 7s Gen 2,2024,571.0,8,8,8,10000,12.1,300.0,4,Tablettes
+Samsung,Galaxy Z Fold6 256GB,Snapdragon 8 Gen 3,2024,239.0,12,10,50,4400,7.6,1899.0,5,Pro
+Samsung,Galaxy Z Fold6 512GB,Snapdragon 8 Gen 3,2024,239.0,12,10,50,4400,7.6,1719.0,5,Pro
+Samsung,Galaxy Z Fold6 1TB,Snapdragon 8 Gen 3,2024,239.0,12,10,50,4400,7.6,2259.0,5,Pro
